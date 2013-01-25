@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>   
+    <title>jef.io</title>
+    <atom:link href="http://jef.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://jef.io</link>
+    <description>coding in paradise</description>
+    <pubDate>Wed, 19 Dec 2012 12:12:00 +0400</pubDate>
+    <generator>The mighty Wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>vim</title>
+      <link>http://jef.io/articles/vim/</link>
+      <pubDate>Wed, 19 Dec 2012 12:12:00 +0400</pubDate>
+      <guid isPermaLink="true">http://jef.io/articles/vim/</guid>
+      <author></author>
+      <description>&lt;p&gt;Vim est un éditeur de texte puissant. Il est impératif de bien le paramétrer pour tirer profit de son potentiel. Et c&apos;est là qu&apos;est souvent le problème (après la phase d&apos;apprentissage bien entendu). Suite à la réinstallation de ma machine de travail, j&apos;ai voulu mettre à jour ma configuration afin de coller avec mon usage actuel (édition php, javascript et css 90% du temps) en tentant d&apos;éviter de trop plonger dans la syntaxe vimscript. J&apos;ai tout d&apos;abord cherché une solution clé en main avec des fichiers disponibles sur le net ci et là et parfois très prometteurs (&lt;a href=&quot;http://spf13.com/post/ultimate-vim-config&quot; title=&quot;Ultimate vim config&quot;&gt;à l&apos;américaine…&lt;/a&gt;).
+
+&lt;/p&gt;
+&lt;p&gt;Toutes les confs rencontrées sont très bien faites mais je pense que le paramétrage est réellement propre aux usages et aux habitudes de chacun. Et personnellement j&apos;ai besoin de peu par rapport à ce que j&apos;ai trouvé. C&apos;est à mon sens également un travail d&apos;affinage à effectuer au fil du temps et des besoins.
+
+&lt;/p&gt;
+&lt;p&gt;Donc comme je ne le souhaitais pas spécialement à la base, ça c&apos;est terminé par une reconstruction from scratch du fichier vimrc. Avec une petite différence cette fois ci : le repos &lt;a href=&quot;https://github.com/spf13/spf13-vim&quot;&gt;spf13-vim&lt;/a&gt; m&apos;a permis de mettre la main sur l&apos;excellent gestionnaire de plugins vim &lt;a href=&quot;https://github.com/gmarik/vundle&quot;&gt;vundle&lt;/a&gt;. Vundle permet de gérer simplement des plugins issus de &lt;a href=&quot;http://www.vim.org/scripts/&quot;&gt;vim-scripts&lt;/a&gt;, de &lt;a href=&quot;https://github.com/search?utf8=%E2%9C%93&amp;q=vim&amp;type=Everything&quot;&gt;github&lt;/a&gt; et d&apos;autres repos git.
+
+&lt;/p&gt;
+&lt;p&gt;Si toutefois ça intéresse encore quelqu&apos;un malgré tout ce que je viens de dire sur les inconvénients des solutions toutes faites, j&apos;ai créé un &lt;a href=&quot;https://github.com/lefakir/dot-files&quot;&gt;repos sur github&lt;/a&gt; avec ma conf.
+
+&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
