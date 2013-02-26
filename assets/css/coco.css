@@ -1,0 +1,26 @@
+body {
+	font-size:15px;
+}
+a {
+	color: #70AF1B;
+}
+a:hover, a:focus {
+	color: #96938D;
+}
+.container {
+	width: auto;
+	max-width: 680px;
+}
+.container .credit {
+	margin: 20px 0;
+}
+.page-header a {
+	color: #333333;
+	text-decoration: none;
+}
+a#archive {
+	font-size: 1.5em;
+}
+.page-header p.text-right a {
+	padding-left: 3px;
+}

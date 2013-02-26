@@ -5,9 +5,36 @@
     <atom:link href="http://jef.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://jef.io</link>
     <description>coding in paradise</description>
-    <pubDate>Wed, 19 Dec 2012 12:12:00 +0400</pubDate>
+    <pubDate>Tue, 26 Feb 2013 23:31:00 +0400</pubDate>
     <generator>The mighty Wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Essai de Sublime Text 2</title>
+      <link>http://jef.io/articles/essai-de-sublime-text-2/</link>
+      <pubDate>Tue, 26 Feb 2013 23:31:00 +0400</pubDate>
+      <guid isPermaLink="true">http://jef.io/articles/essai-de-sublime-text-2/</guid>
+      <author></author>
+      <description>&lt;p&gt;Je produis du code quotidiennement et j&apos;apporte une grande attention à mon outil de travail principal : l&apos;éditeur de texte. 
+
+&lt;/p&gt;
+&lt;p&gt;Il y a régulièrement de nouveaux challengers qui arrivent sur le marché et je suis souvent tenté de les essayer. D&apos;IDE trop fouillis en éditeurs ultra tendances, chaque tentative se conclut en expérience globalement décevante. Soit parce que cela n&apos;apporte rien, soit parce que cela manque de maturité soit parce qu&apos;ergonomiquement c&apos;est peu ragoulant ou que ça rame.
+De plus je reste jusqu&apos;à présent très satisfait de vim (ok j&apos;ai commencé par adorer emacs mais vim m&apos;a vite rattrapé il y a de ça 7 ans maintenant). Donc le niveau d&apos;exigence est assez élevé. Pour être vraiment honnête je devrais dire que c&apos;est un mélange d&apos;exigence et de frein à vouloir changer de paradigmes.
+
+&lt;/p&gt;
+&lt;p&gt;Je ne me considère pas être un power user de vim mais ça fait exactement ce que je veux et je m&apos;étais même dit qu&apos;il était inutile de donner sa chance au prochain.
+
+&lt;/p&gt;
+&lt;p&gt;Sauf que, sauf que... J&apos;ai pris le temps d&apos;essayer &lt;a href=&quot;http://www.sublimetext.com/&quot;&gt;Sublime Text 2&lt;/a&gt; qui n&apos;est pas non plus né de la dernière pluie en passant. Et j&apos;avoue que c&apos;est un éditeur très plaisant et qui a un bon potentiel que je ne lâche pas depuis une semaine. Je suis agréablement surpris.
+
+&lt;/p&gt;
+&lt;p&gt;Tout d&apos;abord il y a la fonctionnalité qui m&apos;a accroché : le &quot;vintage mode&quot;. C&apos;est à dire la possibilité d&apos;utiliser les commandes clavier de vi. C&apos;est vraiment parfait car ça prend le meilleur des deux mondes : Tu peux faire un dd puis faire un cmd-s pour enregistrer ton fichier si vraiment ça te chante.
+Ensuite il y a le petit bind en ligne de commande qui te permet de rajouter des fichiers ou des répertoires à l&apos;environnement d&apos;édition courant depuis un shell. C&apos;est pas le truc du siècle mais c&apos;est très pratique.
+Enfin il y a le fait que c&apos;est bien léger, joli et assez intuitif avec un petit bémol sur la barre de gauche qui ne mets pas assez d&apos;emphase entre les dossiers et les groupes mais c&apos;est pas plus gênant que ça. Il faut dire que je l&apos;utilise tel que livré et que je n&apos;ai pas mis encore mon nez dans la myriade de &lt;a href=&quot;http://wbond.net/sublime_packages/package_control&quot;&gt;plugins disponibles&lt;/a&gt;.
+
+&lt;/p&gt;
+&lt;p&gt;A noter que &lt;strong&gt;Sublime Text 3&lt;/strong&gt; est sur les rails, &lt;a href=&quot;http://www.sublimetext.com/blog/articles/sublime-text-3-beta&quot;&gt;ça risque de saigner&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>vim</title>
       <link>http://jef.io/articles/vim/</link>

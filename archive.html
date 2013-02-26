@@ -1,37 +1,44 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
   <head>
     <meta charset="utf-8">
     <title>jef.io
     </title>
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans">
     <link rel="alternate" href="http://jef.io/feed.xml" type="application/rss+xml" title="coding in paradise">
-    <link rel="stylesheet" href="/css/iAWriter.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css" media="screen">
+    <link rel="stylesheet" href="/assets/css/coco.css">
+    <link rel="stylesheet" href="/assets/css/font-awesome.min.css">
   </head>
-  <body><!-- header
-    <div class="inner">
-      <h1><a href="http://jef.io">jef.io</a>
-        <p>coding in paradise</p>
-      </h1>
-    </div>-->
-    <div id="content"><h2>Les archives</h2>
+  <body>
+    <div class="container"> 
+      <div class="page-header">
+        <h1><a href="/"> jef.io</a></h1>
+        <p class="text-right"><a href="https://github.com/lefakir" title="github"><i class="icon-github icon-large"></i></a><a href="http://www.linkedin.com/in/jfmagnier" title="linkedin"><i class="icon-linkedin-sign icon-large"></i></a><a href="http://twitter.com/lefakir" title="twitter"><img src="assets/images/twitter.ico"></a><a href="http://stackoverflow.com/users/199499/lefakir" title="stackoverflow"><img src="assets/images/so.ico"></a><a href="http://cahri.com" title="cahri"><img src="assets/images/cahri.ico"></a>
+          <cahri></cahri>
+        </p>
+      </div><h2>Les archives</h2>
 
       <section class="archive">
         <ul>
+          <li class="year">2013</li>
+          <ul>
+            <li><strong>Février</strong><br><a href="/articles/essai-de-sublime-text-2/">Essai de Sublime Text 2</a>
+            </li>
+          </ul>
           <li class="year">2012</li>
           <ul>
-            <li><strong>December</strong><br><a href="/articles/vim/">vim</a>
+            <li><strong>Décembre</strong><br><a href="/articles/vim/">vim</a>
             </li>
           </ul>
         </ul>
       </section>
     </div>
-    <footer>
-      <div class="inner">
-        <p>&copy; 2013 jef</p>
-      </div>
-    </footer>
-    <script>
+    <div class="push"></div>
+  </body>
+  <script src="http://code.jquery.com/jquery.js">
+    script(src='/assets/bootstrap/js/bootstrap.min.js')
+    script
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-1152565-6']);
       _gaq.push(['_trackPageview']);
@@ -40,6 +47,5 @@
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
-    </script>
-  </body>
+  </script>
 </html>
