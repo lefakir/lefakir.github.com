@@ -19,7 +19,9 @@ a:hover, a:focus {
 	text-decoration: none;
 }
 a#archive {
-	font-size: 1.5em;
+    display: block;
+    font-size: 1.5em;
+    padding: 1.5em 0;
 }
 .page-header p.text-right a {
 	padding-left: 3px;

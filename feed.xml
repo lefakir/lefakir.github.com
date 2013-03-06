@@ -5,9 +5,19 @@
     <atom:link href="http://jef.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://jef.io</link>
     <description>coding in paradise</description>
-    <pubDate>Tue, 26 Feb 2013 23:31:00 +0400</pubDate>
+    <pubDate>Wed, 06 Mar 2013 23:31:00 +0400</pubDate>
     <generator>The mighty Wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Homologue .io</title>
+      <link>http://jef.io/articles/homologue-io/</link>
+      <pubDate>Wed, 06 Mar 2013 23:31:00 +0400</pubDate>
+      <guid isPermaLink="true">http://jef.io/articles/homologue-io/</guid>
+      <author></author>
+      <description>&lt;p&gt;Je n&apos;avais absolument pas fait attention lors de l&apos;achat de ce nome de domaine mais je trouve marrant les caractéristiques du profile de &lt;a href=&quot;http://www.jeff.io/&quot;&gt;mon homologue en .io&lt;/a&gt;. Ceux qui me connaissent trouveront sans doute aussi quelques similitudes… 
+&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Essai de Sublime Text 2</title>
       <link>http://jef.io/articles/essai-de-sublime-text-2/</link>
