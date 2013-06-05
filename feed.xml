@@ -5,9 +5,41 @@
     <atom:link href="http://jef.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://jef.io</link>
     <description>coding in paradise</description>
-    <pubDate>Tue, 16 Apr 2013 23:31:00 +0400</pubDate>
+    <pubDate>Wed, 05 Jun 2013 22:31:00 +0400</pubDate>
     <generator>The mighty Wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Toodledo validé !</title>
+      <link>http://jef.io/articles/2013-06-toodledo-organisation-personnelle/</link>
+      <pubDate>Wed, 05 Jun 2013 22:31:00 +0400</pubDate>
+      <guid isPermaLink="true">http://jef.io/articles/2013-06-toodledo-organisation-personnelle/</guid>
+      <author></author>
+      <description>&lt;p&gt;Voici le début d&apos;une série de courts articles sur les quelques outils qui comptent actuellement pour moi et que j&apos;utilise de façon intense. Je parle ici de ceux qui ne sont pas trop orientés &quot;code&quot; et qui viendraient à me manquer si je ne les avais plus sous la main tellement ils sont utiles.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jef.io/articles/2013-06-toodledo-organisation-personnelle/logo150.png&quot; alt=&quot;Toodledo&quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Commençons par &lt;strong&gt;Toodledo&lt;/strong&gt;, utile pour mon organisation personnelle. 
+J&apos;avais créé un compte sur ce service il y a un bon moment dans le but de l&apos;utiliser comme centre névralgique de la méthode &lt;a href=&quot;http://fr.wikipedia.org/wiki/Getting_Things_Done&quot;&gt;GTD&lt;/a&gt;; Sans trop de succès jusqu&apos;à lors par manque d´assiduité et d&apos;embrassement de la méthode.
+
+&lt;/p&gt;
+&lt;p&gt;Puis j&apos;ai eu le déclic il y a quelques semaines en lisant ce &lt;a href=&quot;http://www.noop.nl/2013/04/how-i-organize-my-work.html&quot;&gt;billet&lt;/a&gt;. Finalement je me suis dit qu&apos;il était possible (d&apos;essayer en tout cas) de trouver sa propre voie en piochant dans les bonnes idées et les bonnes pratiques de &lt;strong&gt;GTD&lt;/strong&gt; et autres en gardant le contrôle sur le dosage d&apos;utilisation.
+Et ça marche plutôt pas mal pour le moment ! Mais c&apos;est un tout autre sujet.
+
+&lt;/p&gt;
+&lt;p&gt;Si vous ne l&apos;aviez pas deviné &lt;strong&gt;Toodledo&lt;/strong&gt; est avant tout un service en ligne comme il en existe tant d&apos;autres pour la gestion de todo lists. Ce que j&apos;aime bien avec leur interface web c&apos;est la rapidité et la facilité de création de tâches ainsi que l&apos;étendue des filtres et des classements. Bizarrement le design un peu old school de l&apos;interface n&apos;est pas si désagréable. Je devrais plutôt dire que ce qui est au centre du service est le maintien des tâches et ce sans fioritures et c&apos;est ce qui compte. C&apos;est un peu comme &lt;a href=&quot;http://www.leboncoin.fr/&quot;&gt;leboncoin&lt;/a&gt; et son design. Ça craind mais ça fait tellement bien le job.
+
+&lt;/p&gt;
+&lt;p&gt;Mais le service prend tout son sens avec &lt;a href=&quot;https://itunes.apple.com/us/app/toodledo-to-do-list/id292755387?mt=8&quot;&gt;l&apos;application mobile&lt;/a&gt; (il y a aussi &lt;strong&gt;android&lt;/strong&gt; et &lt;strong&gt;bada&lt;/strong&gt;) qui l&apos;accompagne et qui se synchronise correctement avec le compte en ligne et vice versa. L&apos;application intègre les notifications locales et la création rapide de tâches également. Très pratique lorsqu&apos;on souhaite sortir quelque chose de sa tête immédiatement.
+
+&lt;/p&gt;
+&lt;p&gt;J&apos;ai un compte gratuit et ça suffit amplement pour l&apos;utilisation que j&apos;en fais. Un compte payant ajoute entre autres un archivage plus long, la délégation de tâches en connectant plusieurs comptes (ok ça ce serait pas mal), et l&apos;accès à des stats. Les stats pourraient être pratiques mais elles ne prennent pas l&apos;angle qui m&apos;intéresserait c&apos;est à dire celui du suivi de timeboxing. Pour le reste ça fonctionne parfaitement et je souhaite que ça dure ! 
+
+&lt;/p&gt;
+&lt;p&gt;Vous pouvez tout à fait interfacer le service avec des &lt;a href=&quot;http://www.toodledo.com/tools/directory.php&quot;&gt;applications tierces ou leur API&lt;/a&gt; si vraiment vous en avez besoin.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Comme un bleu</title>
       <link>http://jef.io/articles/comme-un-bleu/</link>
