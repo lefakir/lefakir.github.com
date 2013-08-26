@@ -5,9 +5,28 @@
     <atom:link href="http://jef.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://jef.io</link>
     <description>coding in paradise</description>
-    <pubDate>Wed, 05 Jun 2013 22:31:00 +0400</pubDate>
+    <pubDate>Sun, 25 Aug 2013 22:04:00 +0400</pubDate>
     <generator>The mighty Wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Prise de notes avec nvALT</title>
+      <link>http://jef.io/articles/2013-08-prise-de-note-avec-nvALT/</link>
+      <pubDate>Sun, 25 Aug 2013 22:04:00 +0400</pubDate>
+      <guid isPermaLink="true">http://jef.io/articles/2013-08-prise-de-note-avec-nvALT/</guid>
+      <author></author>
+      <description>&lt;p&gt;Je continue la présentation des quelques outils forts utiles avec &lt;a href=&quot;http://brettterpstra.com/projects/nvalt/&quot;&gt;nvALT&lt;/a&gt;. Ce logiciel est un fork de &lt;a href=&quot;http://notational.net/&quot;&gt;Notational Velocity&lt;/a&gt; comportant quelques fonctionnalités supplémentaires. Notational Velocity résume bien la finalité de l&apos;outil. Le maintien de notes rapides et sans efforts. Je l&apos;utilise en toutes circonstances, que ce soit pour un bout de code, un extrait de conversation, le draft d&apos;un mail, des astuces plus techniques, une url qui passe, etc…
+On retrouve toutes ses notes organisées comme bon nous semble en un seul endroit, le tout saupoudré de syntaxe &lt;em&gt;markdown&lt;/em&gt;, avec une petite recherche texte et la possibilité d&apos;affecter des libellés  pour des recherches transversales.
+
+&lt;/p&gt;
+&lt;p&gt;La prise en main est très simple et bien évidemment l&apos;outil prend tout son sens dès lors qu&apos;on sauvegarde ses notes sur &lt;strong&gt;dropbox&lt;/strong&gt; bien qu&apos;il y ait un &lt;a href=&quot;http://brettterpstra.com/2013/06/08/nvalt2.2b106/&quot;&gt;aspect un petit peu relou pour le moment&lt;/a&gt;.
+Le seul petit bémol que je mettrais à l&apos;utilisation de &lt;strong&gt;nvALT&lt;/strong&gt; est qu&apos;il n&apos;est pas possible de forcer l&apos;enregistrement des notes (ou alors j&apos;ai mail cherché). Le soft enregistre les notes sur disque à la fermeture de l&apos;appli et il m&apos;est arrivé parfois 
+de perdre des trucs (gros plantage, non synchro de dropbox, …).
+A part ça je le recommande les yeux fermés et j&apos;aurais difficilement du mal à m&apos;en passer aujourd&apos;hui.
+
+&lt;/p&gt;
+&lt;p&gt;PS : Profitant de l&apos;écriture de ce billet pour retourner sur le site de l&apos;auteur, je tombe sur un petit addon qui peut être pas mal &lt;a href=&quot;http://brettterpstra.com/2013/06/01/nvremind-automatic-reminders-for-nvalt/&quot;&gt;nvremind&lt;/a&gt; pour générer des notifications ou des emails à partir des notes; le genre de trucs qui dans l&apos;absolu peut être pas mal !&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Toodledo validé !</title>
       <link>http://jef.io/articles/2013-06-toodledo-organisation-personnelle/</link>
