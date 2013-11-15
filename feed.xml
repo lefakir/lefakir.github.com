@@ -5,9 +5,33 @@
     <atom:link href="http://jef.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://jef.io</link>
     <description>coding in paradise</description>
-    <pubDate>Sun, 25 Aug 2013 22:04:00 +0400</pubDate>
+    <pubDate>Fri, 15 Nov 2013 22:50:00 +0400</pubDate>
     <generator>The mighty Wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>MOOC, première expérience</title>
+      <link>http://jef.io/articles/2013-11-MoocGdp-check/</link>
+      <pubDate>Fri, 15 Nov 2013 22:50:00 +0400</pubDate>
+      <guid isPermaLink="true">http://jef.io/articles/2013-11-MoocGdp-check/</guid>
+      <author></author>
+      <description>&lt;p&gt;J&apos;ai rencontré le terme &lt;strong&gt;MOOC&lt;/strong&gt; pour la toute première fois en consultant le blog de &lt;a href=&quot;http://blog.nexboo.com/?p=421&quot;&gt;nexboo&lt;/a&gt; et cela a tout de suite aiguisé ma curiosité. J&apos;ai ensuite très vite trouvé l&apos;existence du pionnier en la matière dans l&apos;espace francophone : &lt;a href=&quot;http://gestiondeprojet.pm/&quot;&gt;Rémi Bachelet&lt;/a&gt;. Coïncidence, quelques jours plus tard les inscriptions à la seconde édition du &lt;strong&gt;MOOC ABC Gestion de Projet&lt;/strong&gt; étaient ouvertes sur la plateforme &lt;a href=&quot;https://unow-mooc.org/&quot;&gt;unow&lt;/a&gt; (portée par &lt;a href=&quot;https://www.canvas.net/&quot;&gt;canvas&lt;/a&gt;) et comme on peut le deviner j&apos;ai décidé d&apos;y participer.
+
+&lt;/p&gt;
+&lt;p&gt;J&apos;y suis allé dans l&apos;optique de suivre les cours dans la version classique qui consiste à visionner un ensemble de vidéos étalées sur 5 semaines et de répondre ensuite à des questionnaires. Au final, malgré un emploi du temps pro et perso déjà bien chargé je me suis lancé dans la version avancée qui rajoute la réalisation de 5 devoirs et l&apos;évaluation de devoirs d&apos;autres étudiants (évaluation par la pairs).
+
+&lt;/p&gt;
+&lt;p&gt;Du point de vue du contenu je ne regrette absolument pas d&apos;avoir suivi cette formation. Les vidéos sont très bien présentées et les informations sont de qualité. S&apos;il y a certains aspects qui m&apos;étaient déjà familiers comme la structure des projets, les outils informatiques et la planification, j&apos;ai vraiment apprécié d&apos;en découvrir d&apos;autres comme l&apos;actualisation et la méthodologie autour de l&apos;analyse fonctionnelle. Cerise sur le gâteau, il y a un nombre conséquent de ressources utiles à la gestion de projets disponibles en consultation et en téléchargement. Personnellement je n&apos;ai pas ou peu exploré les espaces créés en marge de la formation (comme les rencontres sur Hangouts avec l&apos;équipe enseignante, les communautés Google+, le forum etc).
+
+&lt;/p&gt;
+&lt;p&gt;Du point de vue du mode d&apos;évaluation, j&apos;ai apprécié le fait que la formation ne mette pas la pression sur un examen trop couperet (3 tentatives pour répondre aux questionnaires et 1 pour un questionnaire final). Je trouve que cela encourage à bien comprendre et approfondir certains concepts. Au final le but est bien là quel que soit le résultat de la certification. De même je ne regrette absolument pas d&apos;avoir suivi la version avancée. Les exercices proposés mettent bien en pratique ce qui est vu en cours; rien de tel que la pratique. Egalement, l&apos;évaluation des pairs est très enrichissante car elle permet de voir comment d&apos;autres étudiants ont abordé les mêmes sujets que ceux sur lesquels on a planché. Ca ouvre bien le champ à la réflexion. Il faut dire que majoritairement le MOOC a été suivi par des personnes volontaires donc on croise des devoirs soignés et c&apos;est appréciable.
+
+&lt;/p&gt;
+&lt;p&gt;L&apos;expérience a été positive pour ma part et la formation reçue correspond bien à son intitulé. L&apos;équipe encadrante a fait un travail remarquable pour cette seconde édition et je les en  remercie fortement. Entre temps cette formation a rencontré un succès dans toute la francophonie et reçu un echo médiatique assez important sur le plan national et c&apos;est tant mieux. Ce genre d&apos;initiatives est à encourager. C&apos;est assez génial de pouvoir accéder à la connaissance comme cela tout en suivant son propre rythme. Si le montage du projet vous intéresse je vous conseille la &lt;a href=&quot;http://jef.io/articles/2013-11-MoocGdp-check/://blog.educpros.fr/matthieu-cisel/2013/10/08/la-conception-du-mooc-gestion-de-projet-facon-wikipedia/&quot;&gt;lecture de ce billet&lt;/a&gt;.
+
+&lt;/p&gt;
+&lt;p&gt;Me reste plus qu&apos;à avoir une note maintenant pour valider le tout !&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Prise de notes avec nvALT</title>
       <link>http://jef.io/articles/2013-08-prise-de-note-avec-nvALT/</link>
