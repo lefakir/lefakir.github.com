@@ -5,9 +5,24 @@
     <atom:link href="http://jef.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://jef.io</link>
     <description></description>
-    <pubDate>Thu, 21 Nov 2013 22:00:00 +0400</pubDate>
+    <pubDate>Fri, 28 Feb 2014 22:00:00 +0400</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>3 dollars bien dépensés</title>
+      <link>http://jef.io/articles/3-dollars-bien-depenses/</link>
+      <pubDate>Fri, 28 Feb 2014 22:00:00 +0400</pubDate>
+      <guid isPermaLink="true">http://jef.io/articles/3-dollars-bien-depenses/</guid>
+      <author></author>
+      <description>&lt;p&gt;Jusqu’ici j’ai été sceptique de l’efficacité de Kanban (déplacer des post-it de colonne en colonne et après ?).&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;De plus en plus de résonnant dans le secteur (Je pousse un peu mais &lt;strong&gt;Agilité&lt;/strong&gt;, &lt;strong&gt;Scrum&lt;/strong&gt; et &lt;strong&gt;Kanban&lt;/strong&gt; sont les termes qui ont remplacé le &lt;strong&gt;UML&lt;/strong&gt; qu’on voyait partout il y a 10 ans) ma curiosité a été aiguisée au point de vouloir me documenter un peu plus sur la méthode.&lt;/p&gt;
+&lt;p&gt;Et, je ne sais plus par quel biais, j’ai fini par acheter &lt;a href=&quot;https://leanpub.com/kanban&quot;&gt;l’introduction de Paul klipp&lt;/a&gt; sur leanpub : 3$ bon prince… Les explications fournies sont très claires et cela répond à la question. Mais ce qui fait la différence c’est l’annexe qui expose sa méthode d’organisation personnelle.&lt;/p&gt;
+&lt;p&gt;Cela m’a paru si simple et facile à mettre en oeuvre qu’il m’a fallu lire à 2 reprises pour bien me rendre compte qu’il ne s’agissait pas d’une énième usine à gaz intenable.&lt;/p&gt;
+&lt;p&gt;Pour pratiquer sa méthode depuis plus de 3 mois, je peux dire que c’est parfaitement adapté à mon profil et ma discipline personnelle. Mon esprit est libéré et je vois ma productivité s’améliorer sensiblement.&lt;/p&gt;
+&lt;p&gt;Je ne vais pas dévoiler l’essence de ses propos que je vous invite vivement à lire mais il préconise une vision à la semaine centrée sur Kanban (étrange, d’autant plus qu’il me semble être l’auteur d’un outil en ligne), le big plan collé sur une mindmap et très peu de contraintes avec du pomodoro en exécution pour se fouetter un peu.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>MOOC, première experience</title>
       <link>http://jef.io/articles/mooc-premiere-experience/</link>
