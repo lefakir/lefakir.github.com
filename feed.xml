@@ -1,164 +1,283 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>   
+  <channel>
     <title>jef.io</title>
     <atom:link href="http://jef.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://jef.io</link>
-    <description>coding in paradise</description>
-    <pubDate>Fri, 15 Nov 2013 22:50:00 +0400</pubDate>
-    <generator>The mighty Wintersmith</generator>
+    <description></description>
+    <pubDate>Thu, 21 Nov 2013 22:00:00 +0400</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
-      <title>MOOC, première expérience</title>
-      <link>http://jef.io/articles/2013-11-MoocGdp-check/</link>
-      <pubDate>Fri, 15 Nov 2013 22:50:00 +0400</pubDate>
-      <guid isPermaLink="true">http://jef.io/articles/2013-11-MoocGdp-check/</guid>
+      <title>MOOC, première experience</title>
+      <link>http://jef.io/articles/mooc-premiere-experience/</link>
+      <pubDate>Thu, 21 Nov 2013 22:00:00 +0400</pubDate>
+      <guid isPermaLink="true">http://jef.io/articles/mooc-premiere-experience/</guid>
       <author></author>
-      <description>&lt;p&gt;J&apos;ai rencontré le terme &lt;strong&gt;MOOC&lt;/strong&gt; pour la toute première fois en consultant le blog de &lt;a href=&quot;http://blog.nexboo.com/?p=421&quot;&gt;nexboo&lt;/a&gt; et cela a tout de suite aiguisé ma curiosité. J&apos;ai ensuite très vite trouvé l&apos;existence du pionnier en la matière dans l&apos;espace francophone : &lt;a href=&quot;http://gestiondeprojet.pm/&quot;&gt;Rémi Bachelet&lt;/a&gt;. Coïncidence, quelques jours plus tard les inscriptions à la seconde édition du &lt;strong&gt;MOOC ABC Gestion de Projet&lt;/strong&gt; étaient ouvertes sur la plateforme &lt;a href=&quot;https://unow-mooc.org/&quot;&gt;unow&lt;/a&gt; (portée par &lt;a href=&quot;https://www.canvas.net/&quot;&gt;canvas&lt;/a&gt;) et comme on peut le deviner j&apos;ai décidé d&apos;y participer.
-
-&lt;/p&gt;
-&lt;p&gt;J&apos;y suis allé dans l&apos;optique de suivre les cours dans la version classique qui consiste à visionner un ensemble de vidéos étalées sur 5 semaines et de répondre ensuite à des questionnaires. Au final, malgré un emploi du temps pro et perso déjà bien chargé je me suis lancé dans la version avancée qui rajoute la réalisation de 5 devoirs et l&apos;évaluation de devoirs d&apos;autres étudiants (évaluation par la pairs).
-
-&lt;/p&gt;
-&lt;p&gt;Du point de vue du contenu je ne regrette absolument pas d&apos;avoir suivi cette formation. Les vidéos sont très bien présentées et les informations sont de qualité. S&apos;il y a certains aspects qui m&apos;étaient déjà familiers comme la structure des projets, les outils informatiques et la planification, j&apos;ai vraiment apprécié d&apos;en découvrir d&apos;autres comme l&apos;actualisation et la méthodologie autour de l&apos;analyse fonctionnelle. Cerise sur le gâteau, il y a un nombre conséquent de ressources utiles à la gestion de projets disponibles en consultation et en téléchargement. Personnellement je n&apos;ai pas ou peu exploré les espaces créés en marge de la formation (comme les rencontres sur Hangouts avec l&apos;équipe enseignante, les communautés Google+, le forum etc).
-
-&lt;/p&gt;
-&lt;p&gt;Du point de vue du mode d&apos;évaluation, j&apos;ai apprécié le fait que la formation ne mette pas la pression sur un examen trop couperet (3 tentatives pour répondre aux questionnaires et 1 pour un questionnaire final). Je trouve que cela encourage à bien comprendre et approfondir certains concepts. Au final le but est bien là quel que soit le résultat de la certification. De même je ne regrette absolument pas d&apos;avoir suivi la version avancée. Les exercices proposés mettent bien en pratique ce qui est vu en cours; rien de tel que la pratique. Egalement, l&apos;évaluation des pairs est très enrichissante car elle permet de voir comment d&apos;autres étudiants ont abordé les mêmes sujets que ceux sur lesquels on a planché. Ca ouvre bien le champ à la réflexion. Il faut dire que majoritairement le MOOC a été suivi par des personnes volontaires donc on croise des devoirs soignés et c&apos;est appréciable.
-
-&lt;/p&gt;
-&lt;p&gt;L&apos;expérience a été positive pour ma part et la formation reçue correspond bien à son intitulé. L&apos;équipe encadrante a fait un travail remarquable pour cette seconde édition et je les en  remercie fortement. Entre temps cette formation a rencontré un succès dans toute la francophonie et reçu un echo médiatique assez important sur le plan national et c&apos;est tant mieux. Ce genre d&apos;initiatives est à encourager. C&apos;est assez génial de pouvoir accéder à la connaissance comme cela tout en suivant son propre rythme. Si le montage du projet vous intéresse je vous conseille la &lt;a href=&quot;http://jef.io/articles/2013-11-MoocGdp-check/://blog.educpros.fr/matthieu-cisel/2013/10/08/la-conception-du-mooc-gestion-de-projet-facon-wikipedia/&quot;&gt;lecture de ce billet&lt;/a&gt;.
-
-&lt;/p&gt;
-&lt;p&gt;Me reste plus qu&apos;à avoir une note maintenant pour valider le tout !&lt;/p&gt;
+      <description>&lt;p&gt;J’ai rencontré le terme &lt;strong&gt;MOOC&lt;/strong&gt; pour la toute première fois en consultant le
+blog de &lt;a href=&quot;http://blog.nexboo.com/?p=421&quot;&gt;nexboo&lt;/a&gt; et cela a tout de suite
+aiguisé ma curiosité. &lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;J’ai ensuite très vite trouvé l’existence du pionnier en
+la matière dans l’espace francophone : &lt;a href=&quot;http://gestiondeprojet.pm/&quot;&gt;Rémi
+Bachelet&lt;/a&gt;. Coïncidence, quelques jours plus tard
+les inscriptions à la seconde édition du &lt;strong&gt;MOOC ABC Gestion de Projet&lt;/strong&gt;
+étaient ouvertes sur la plateforme &lt;a href=&quot;https://unow-mooc.org/&quot;&gt;unow&lt;/a&gt; (portée par
+&lt;a href=&quot;https://www.canvas.net/&quot;&gt;canvas&lt;/a&gt;) et comme on peut le deviner j’ai décidé d’y
+participer.&lt;/p&gt;
+&lt;p&gt;J’y suis allé dans l’optique de suivre les cours dans la version classique qui
+consiste à visionner un ensemble de vidéos étalées sur 5 semaines et de
+répondre ensuite à des questionnaires. Au final, malgré un emploi du temps pro
+et perso déjà bien chargé je me suis lancé dans la version avancée qui rajoute
+la réalisation de 5 devoirs et l’évaluation de devoirs d’autres étudiants
+(évaluation par la pairs).&lt;/p&gt;
+&lt;p&gt;Du point de vue du contenu je ne regrette absolument pas d’avoir suivi cette
+formation. Les vidéos sont très bien présentées et les informations sont de
+qualité. S’il y a certains aspects qui m’étaient déjà familiers comme la
+structure des projets, les outils informatiques et la planification, j’ai
+vraiment apprécié d’en découvrir d’autres comme l’actualisation et la
+méthodologie autour de l’analyse fonctionnelle. Cerise sur le gâteau, il y a
+un nombre conséquent de ressources utiles à la gestion de projets disponibles
+en consultation et en téléchargement. Personnellement je n’ai pas ou peu
+exploré les espaces créés en marge de la formation (comme les rencontres sur
+Hangouts avec l’équipe enseignante, les communautés Google+, le forum etc).&lt;/p&gt;
+&lt;p&gt;Du point de vue du mode d’évaluation, j’ai apprécié le fait que la formation
+ne mette pas la pression sur un examen trop couperet (3 tentatives pour
+répondre aux questionnaires et 1 pour un questionnaire final). Je trouve que
+cela encourage à bien comprendre et approfondir certains concepts. Au final le
+but est bien là quel que soit le résultat de la certification. De même je ne
+regrette absolument pas d’avoir suivi la version avancée. Les exercices
+proposés mettent bien en pratique ce qui est vu en cours; rien de tel que la
+pratique. Egalement, l’évaluation des pairs est très enrichissante car elle
+permet de voir comment d’autres étudiants ont abordé les mêmes sujets que ceux
+sur lesquels on a planché. Ca ouvre bien le champ à la réflexion. Il faut dire
+que majoritairement le MOOC a été suivi par des personnes volontaires donc on
+croise des devoirs soignés et c’est appréciable.&lt;/p&gt;
+&lt;p&gt;L’expérience a été positive pour ma part et la formation reçue correspond bien
+à son intitulé. L’équipe encadrante a fait un travail remarquable pour cette
+seconde édition et je les en remercie fortement. Entre temps cette formation a
+rencontré un succès dans toute la francophonie et reçu un echo médiatique
+assez important sur le plan national et c’est tant mieux. Ce genre
+d’initiatives est à encourager. C’est assez génial de pouvoir accéder à la
+connaissance comme cela tout en suivant son propre rythme. Si le montage du
+projet vous intéresse je vous conseille la &lt;a href=&quot;http://jef.io/articles/2013-11-MoocGdp-check/://blog.educpros.fr%0A/matthieu-cisel/2013/10/08/la-conception-du-mooc-gestion-de-projet-facon-%0Awikipedia/&quot;&gt;lecture de ce
+billet&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Me reste plus qu’à avoir une note maintenant pour valider le tout !&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Prise de notes avec nvALT</title>
-      <link>http://jef.io/articles/2013-08-prise-de-note-avec-nvALT/</link>
-      <pubDate>Sun, 25 Aug 2013 22:04:00 +0400</pubDate>
-      <guid isPermaLink="true">http://jef.io/articles/2013-08-prise-de-note-avec-nvALT/</guid>
+      <title>prise de notes avec nvALT</title>
+      <link>http://jef.io/articles/prise-de-notes-avec-nvalt/</link>
+      <pubDate>Thu, 15  Aug 2013 15:00:00 +0400</pubDate>
+      <guid isPermaLink="true">http://jef.io/articles/prise-de-notes-avec-nvalt/</guid>
       <author></author>
-      <description>&lt;p&gt;Je continue la présentation des quelques outils forts utiles avec &lt;a href=&quot;http://brettterpstra.com/projects/nvalt/&quot;&gt;nvALT&lt;/a&gt;. Ce logiciel est un fork de &lt;a href=&quot;http://notational.net/&quot;&gt;Notational Velocity&lt;/a&gt; comportant quelques fonctionnalités supplémentaires. Notational Velocity résume bien la finalité de l&apos;outil. Le maintien de notes rapides et sans efforts. Je l&apos;utilise en toutes circonstances, que ce soit pour un bout de code, un extrait de conversation, le draft d&apos;un mail, des astuces plus techniques, une url qui passe, etc…
-On retrouve toutes ses notes organisées comme bon nous semble en un seul endroit, le tout saupoudré de syntaxe &lt;em&gt;markdown&lt;/em&gt;, avec une petite recherche texte et la possibilité d&apos;affecter des libellés  pour des recherches transversales.
-
-&lt;/p&gt;
-&lt;p&gt;La prise en main est très simple et bien évidemment l&apos;outil prend tout son sens dès lors qu&apos;on sauvegarde ses notes sur &lt;strong&gt;dropbox&lt;/strong&gt; bien qu&apos;il y ait un &lt;a href=&quot;http://brettterpstra.com/2013/06/08/nvalt2.2b106/&quot;&gt;aspect un petit peu relou pour le moment&lt;/a&gt;.
-Le seul petit bémol que je mettrais à l&apos;utilisation de &lt;strong&gt;nvALT&lt;/strong&gt; est qu&apos;il n&apos;est pas possible de forcer l&apos;enregistrement des notes (ou alors j&apos;ai mail cherché). Le soft enregistre les notes sur disque à la fermeture de l&apos;appli et il m&apos;est arrivé parfois 
-de perdre des trucs (gros plantage, non synchro de dropbox, …).
-A part ça je le recommande les yeux fermés et j&apos;aurais difficilement du mal à m&apos;en passer aujourd&apos;hui.
-
-&lt;/p&gt;
-&lt;p&gt;PS : Profitant de l&apos;écriture de ce billet pour retourner sur le site de l&apos;auteur, je tombe sur un petit addon qui peut être pas mal &lt;a href=&quot;http://brettterpstra.com/2013/06/01/nvremind-automatic-reminders-for-nvalt/&quot;&gt;nvremind&lt;/a&gt; pour générer des notifications ou des emails à partir des notes; le genre de trucs qui dans l&apos;absolu peut être pas mal !&lt;/p&gt;
+      <description>&lt;p&gt;Je continue la présentation des quelques outils forts utiles avec
+&lt;a href=&quot;http://brettterpstra.com/projects/nvalt/&quot;&gt;nvALT&lt;/a&gt;. Ce logiciel est un fork de
+&lt;a href=&quot;http://notational.net/&quot;&gt;Notational Velocity&lt;/a&gt; comportant quelques
+fonctionnalités supplémentaires. &lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Notational Velocity résume bien la finalité
+de l’outil. Le maintien de notes rapides et sans efforts. Je l’utilise en
+toutes circonstances, que ce soit pour un bout de code, un extrait de
+conversation, le draft d’un mail, des astuces plus techniques, une url qui
+passe, etc… On retrouve toutes ses notes organisées comme bon nous semble en
+un seul endroit, le tout saupoudré de syntaxe &lt;em&gt;markdown&lt;/em&gt;, avec une petite
+recherche texte et la possibilité d’affecter des libellés pour des recherches
+transversales.&lt;/p&gt;
+&lt;p&gt;La prise en main est très simple et bien évidemment l’outil prend tout son
+sens dès lors qu’on sauvegarde ses notes sur &lt;strong&gt;dropbox&lt;/strong&gt; bien qu’il y ait un
+&lt;a href=&quot;http://brettterpstra.com/2013/06/08/nvalt2.2b106/&quot;&gt;aspect un petit peu relou pour le
+moment&lt;/a&gt;. Le seul petit
+bémol que je mettrais à l’utilisation de &lt;strong&gt;nvALT&lt;/strong&gt; est qu’il n’est pas
+possible de forcer l’enregistrement des notes (ou alors j’ai mail cherché). Le
+soft enregistre les notes sur disque à la fermeture de l’appli et il m’est
+arrivé parfois de perdre des trucs (gros plantage, non synchro de dropbox, …).
+A part ça je le recommande les yeux fermés et j’aurais difficilement du mal à
+m’en passer aujourd’hui.&lt;/p&gt;
+&lt;p&gt;PS : Profitant de l’écriture de ce billet pour retourner sur le site de
+l’auteur, je tombe sur un petit addon qui peut être pas mal
+&lt;a href=&quot;http://brettterpstra.com/2013/06/01/nvremind-automatic-reminders-%0Afor-nvalt/&quot;&gt;nvremind&lt;/a&gt; pour générer des notifications ou des emails à partir des notes;
+le genre de trucs qui dans l’absolu peut être pas mal !&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Toodledo validé !</title>
-      <link>http://jef.io/articles/2013-06-toodledo-organisation-personnelle/</link>
-      <pubDate>Wed, 05 Jun 2013 22:31:00 +0400</pubDate>
-      <guid isPermaLink="true">http://jef.io/articles/2013-06-toodledo-organisation-personnelle/</guid>
+      <title>toodledo validé !</title>
+      <link>http://jef.io/articles/toodledo-valide/</link>
+      <pubDate>Fri, 21 Jun 2013 22:00:00 +0400</pubDate>
+      <guid isPermaLink="true">http://jef.io/articles/toodledo-valide/</guid>
       <author></author>
-      <description>&lt;p&gt;Voici le début d&apos;une série de courts articles sur les quelques outils qui comptent actuellement pour moi et que j&apos;utilise de façon intense. Je parle ici de ceux qui ne sont pas trop orientés &quot;code&quot; et qui viendraient à me manquer si je ne les avais plus sous la main tellement ils sont utiles.
-
-&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://jef.io/articles/2013-06-toodledo-organisation-personnelle/logo150.png&quot; alt=&quot;Toodledo&quot;&gt;
-
-&lt;/p&gt;
-&lt;p&gt;Commençons par &lt;strong&gt;Toodledo&lt;/strong&gt;, utile pour mon organisation personnelle. 
-J&apos;avais créé un compte sur ce service il y a un bon moment dans le but de l&apos;utiliser comme centre névralgique de la méthode &lt;a href=&quot;http://fr.wikipedia.org/wiki/Getting_Things_Done&quot;&gt;GTD&lt;/a&gt;; Sans trop de succès jusqu&apos;à lors par manque d´assiduité et d&apos;embrassement de la méthode.
-
-&lt;/p&gt;
-&lt;p&gt;Puis j&apos;ai eu le déclic il y a quelques semaines en lisant ce &lt;a href=&quot;http://www.noop.nl/2013/04/how-i-organize-my-work.html&quot;&gt;billet&lt;/a&gt;. Finalement je me suis dit qu&apos;il était possible (d&apos;essayer en tout cas) de trouver sa propre voie en piochant dans les bonnes idées et les bonnes pratiques de &lt;strong&gt;GTD&lt;/strong&gt; et autres en gardant le contrôle sur le dosage d&apos;utilisation.
-Et ça marche plutôt pas mal pour le moment ! Mais c&apos;est un tout autre sujet.
-
-&lt;/p&gt;
-&lt;p&gt;Si vous ne l&apos;aviez pas deviné &lt;strong&gt;Toodledo&lt;/strong&gt; est avant tout un service en ligne comme il en existe tant d&apos;autres pour la gestion de todo lists. Ce que j&apos;aime bien avec leur interface web c&apos;est la rapidité et la facilité de création de tâches ainsi que l&apos;étendue des filtres et des classements. Bizarrement le design un peu old school de l&apos;interface n&apos;est pas si désagréable. Je devrais plutôt dire que ce qui est au centre du service est le maintien des tâches et ce sans fioritures et c&apos;est ce qui compte. C&apos;est un peu comme &lt;a href=&quot;http://www.leboncoin.fr/&quot;&gt;leboncoin&lt;/a&gt; et son design. Ça craind mais ça fait tellement bien le job.
-
-&lt;/p&gt;
-&lt;p&gt;Mais le service prend tout son sens avec &lt;a href=&quot;https://itunes.apple.com/us/app/toodledo-to-do-list/id292755387?mt=8&quot;&gt;l&apos;application mobile&lt;/a&gt; (il y a aussi &lt;strong&gt;android&lt;/strong&gt; et &lt;strong&gt;bada&lt;/strong&gt;) qui l&apos;accompagne et qui se synchronise correctement avec le compte en ligne et vice versa. L&apos;application intègre les notifications locales et la création rapide de tâches également. Très pratique lorsqu&apos;on souhaite sortir quelque chose de sa tête immédiatement.
-
-&lt;/p&gt;
-&lt;p&gt;J&apos;ai un compte gratuit et ça suffit amplement pour l&apos;utilisation que j&apos;en fais. Un compte payant ajoute entre autres un archivage plus long, la délégation de tâches en connectant plusieurs comptes (ok ça ce serait pas mal), et l&apos;accès à des stats. Les stats pourraient être pratiques mais elles ne prennent pas l&apos;angle qui m&apos;intéresserait c&apos;est à dire celui du suivi de timeboxing. Pour le reste ça fonctionne parfaitement et je souhaite que ça dure ! 
-
-&lt;/p&gt;
-&lt;p&gt;Vous pouvez tout à fait interfacer le service avec des &lt;a href=&quot;http://www.toodledo.com/tools/directory.php&quot;&gt;applications tierces ou leur API&lt;/a&gt; si vraiment vous en avez besoin.&lt;/p&gt;
+      <description>&lt;p&gt;Voici le début d’une série de courts articles sur les quelques outils qui
+comptent actuellement pour moi et que j’utilise de façon intense. Je parle ici
+de ceux qui ne sont pas trop orientés “code” et qui viendraient à me manquer
+si je ne les avais plus sous la main tellement ils sont utiles.&lt;/p&gt;
+&lt;p&gt;Commençons par &lt;strong&gt;Toodledo&lt;/strong&gt; &lt;span class=&quot;more&quot;&gt;&lt;/span&gt;, utile pour mon organisation personnelle. J’avais
+créé un compte sur ce service il y a un bon moment dans le but de l’utiliser
+comme centre névralgique de la méthode
+&lt;a href=&quot;http://fr.wikipedia.org/wiki/Getting_Things_Done&quot;&gt;GTD&lt;/a&gt;; Sans trop de succès
+jusqu’à lors par manque d´assiduité et d’embrassement de la méthode.&lt;/p&gt;
+&lt;p&gt;Puis j’ai eu le déclic il y a quelques semaines en lisant ce
+&lt;a href=&quot;http://www.noop.nl/2013/04/how-i-organize-my-work.html&quot;&gt;billet&lt;/a&gt;. Finalement
+je me suis dit qu’il était possible (d’essayer en tout cas) de trouver sa
+propre voie en piochant dans les bonnes idées et les bonnes pratiques de
+&lt;strong&gt;GTD&lt;/strong&gt; et autres en gardant le contrôle sur le dosage d’utilisation. Et ça
+marche plutôt pas mal pour le moment ! Mais c’est un tout autre sujet.&lt;/p&gt;
+&lt;p&gt;Si vous ne l’aviez pas deviné &lt;strong&gt;Toodledo&lt;/strong&gt; est avant tout un service en ligne
+comme il en existe tant d’autres pour la gestion de todo lists. Ce que j’aime
+bien avec leur interface web c’est la rapidité et la facilité de création de
+tâches ainsi que l’étendue des filtres et des classements. Bizarrement le
+design un peu old school de l’interface n’est pas si désagréable. Je devrais
+plutôt dire que ce qui est au centre du service est le maintien des tâches et
+ce sans fioritures et c’est ce qui compte. C’est un peu comme
+&lt;a href=&quot;http://www.leboncoin.fr/&quot;&gt;leboncoin&lt;/a&gt; et son design. Ça craind mais ça fait
+tellement bien le job.&lt;/p&gt;
+&lt;p&gt;Mais le service prend tout son sens avec &lt;a href=&quot;https://itunes.apple.com/us/app/toodledo-to-do-list/id292755387?mt=8&quot;&gt;l’application
+mobile&lt;/a&gt;
+(il y a aussi &lt;strong&gt;android&lt;/strong&gt; et &lt;strong&gt;bada&lt;/strong&gt;) qui l’accompagne et qui se synchronise
+correctement avec le compte en ligne et vice versa. L’application intègre les
+notifications locales et la création rapide de tâches également. Très pratique
+lorsqu’on souhaite sortir quelque chose de sa tête immédiatement.&lt;/p&gt;
+&lt;p&gt;J’ai un compte gratuit et ça suffit amplement pour l’utilisation que j’en
+fais. Un compte payant ajoute entre autres un archivage plus long, la
+délégation de tâches en connectant plusieurs comptes (ok ça ce serait pas
+mal), et l’accès à des stats. Les stats pourraient être pratiques mais elles
+ne prennent pas l’angle qui m’intéresserait c’est à dire celui du suivi de
+timeboxing. Pour le reste ça fonctionne parfaitement et je souhaite que ça
+dure !&lt;/p&gt;
+&lt;p&gt;Vous pouvez tout à fait interfacer le service avec des &lt;a href=&quot;http://www.toodledo.com/tools/directory.php&quot;&gt;applications tierces
+ou leur API&lt;/a&gt; si vraiment vous en
+avez besoin.&lt;/p&gt;
 </description>
     </item>
     <item>
       <title>Comme un bleu</title>
       <link>http://jef.io/articles/comme-un-bleu/</link>
-      <pubDate>Tue, 16 Apr 2013 23:31:00 +0400</pubDate>
+      <pubDate>Thu, 11 Apr 2013 22:00:00 +0400</pubDate>
       <guid isPermaLink="true">http://jef.io/articles/comme-un-bleu/</guid>
       <author></author>
-      <description>&lt;p&gt;Je me suis fait avoir aujourd&apos;hui avec ce &lt;a href=&quot;https://twitter.com/lefakir/status/324106385585479681&quot;&gt;tweet&lt;/a&gt;. Et bien oui c&apos;est fait exprès : de l&apos;humour de dev, un coup monté très bien expliqué dans ce &lt;a href=&quot;https://www.facebook.com/codeception/posts/347519315348451&quot;&gt;post facebook&lt;/a&gt;. Ce n&apos;est pas bien grave, ça m&apos;apprendra à ne pas chercher plus loin que le bout de mon nez. Il est vrai que parfois on tombe sur ce genre de pépites sur les sites web &lt;a href=&quot;http://fr.wikipedia.org/wiki/La_R%C3%A9union&quot;&gt;de mon coin&lt;/a&gt; mais c&apos;est une toute autre histoire…
-
-&lt;/p&gt;
-&lt;p&gt;Le petit laïus de &lt;strong&gt;codeception&lt;/strong&gt; rejoint une réflexion que je me suis déjà faite il y a un petit moment. C&apos;est le grand écart entre ce dont a besoin le développeur pour communiquer et les outils ultra-intégrés qu&apos;il met en place pour ses clients à coup de back-offices complexes et de pirouettes incroyables. Aussi impressionnant soit ce que permet codeception, c&apos;est un site web statique qui en fait la promotion. De plus il est bien complet et assez agréable à parcourir. J&apos;aurais du me douter que le site du projet était hébergé par &lt;a href=&quot;http://pages.github.com/&quot;&gt;github pages&lt;/a&gt;… enfin bref.
-
-&lt;/p&gt;
-&lt;p&gt;Je dis ça parce que ce blog si je peux l&apos;appeler ainsi est lui même hébergé sur ce service. C&apos;est par le plus grand des hasards que j&apos;ai utilisé &lt;a href=&quot;http://jnordberg.github.io/wintersmith/&quot;&gt;wintersmith&lt;/a&gt; pour le gérer. A la base  mon idée était de créer un moteur en &lt;em&gt;php&lt;/em&gt; alimenté par des fichiers &lt;em&gt;markdown&lt;/em&gt;. J&apos;ai eu le réflexe, que j&apos;ai de plus en plus maintenant, de chercher sur github ce qui se faisait sur la même idée. Et du coup j&apos;ai creusé un petit peu du côté de wintersmith qui repose sur &lt;em&gt;coffee script&lt;/em&gt; (qui m&apos;intéresse par ailleurs) qui était simple d&apos;utilisation et qui collait parfaitement à mon besoin et à ma tendance à mettre les mains dedans.
-
-&lt;/p&gt;
-&lt;p&gt;J&apos;exagère un petit peu sur les besoins rudimentaires du développeur. Même avec du statique il est possible de se faire plaisir. Il y a une bonne technicité derrière. C&apos;est une logique plus déportée, un peu geek je le concède, que celle qui repose sur une interface d&apos;administration. Les services tiers viennent aussi compléter le panel des possibilités, je pense à &lt;a href=&quot;http://disqus.com/&quot;&gt;disqus&lt;/a&gt; ou à &lt;a href=&quot;http://www.google.fr/cse/&quot;&gt;cse&lt;/a&gt; par exemple.
-
-&lt;/p&gt;
-&lt;p&gt;Je finis un peu en queue de poisson mais tant pis on est encore au mois d&apos;avril. Au final, pour d&apos;autres raisons je suis bien content d&apos;être tombé sur ce petit hameçon aujourd&apos;hui.&lt;/p&gt;
+      <description>&lt;p&gt;Je me suis fait avoir aujourd’hui avec ce
+&lt;a href=&quot;https://twitter.com/lefakir/status/324106385585479681&quot;&gt;tweet&lt;/a&gt;. Et bien oui
+c’est fait exprès : de l’humour de dev, un coup monté très bien expliqué dans
+ce &lt;a href=&quot;https://www.facebook.com/codeception/posts/347519315348451&quot;&gt;post
+facebook&lt;/a&gt;. Ce
+n’est pas bien grave &lt;span class=&quot;more&quot;&gt;&lt;/span&gt;, ça m’apprendra à ne pas chercher plus loin que le bout
+de mon nez. Il est vrai que parfois on tombe sur ce genre de pépites sur les
+sites web &lt;a href=&quot;http://fr.wikipedia.org/wiki/La_R%C3%A9union&quot;&gt;de mon coin&lt;/a&gt; mais
+c’est une toute autre histoire…&lt;/p&gt;
+&lt;p&gt;Le petit laïus de &lt;strong&gt;codeception&lt;/strong&gt; rejoint une réflexion que je me suis déjà
+faite il y a un petit moment. C’est le grand écart entre ce dont a besoin le
+développeur pour communiquer et les outils ultra-intégrés qu’il met en place
+pour ses clients à coup de back-offices complexes et de pirouettes
+incroyables. Aussi impressionnant soit ce que permet codeception, c’est un
+site web statique qui en fait la promotion. De plus il est bien complet et
+assez agréable à parcourir. J’aurais du me douter que le site du projet était
+hébergé par &lt;a href=&quot;http://pages.github.com/&quot;&gt;github pages&lt;/a&gt;… enfin bref.&lt;/p&gt;
+&lt;p&gt;Je dis ça parce que ce blog si je peux l’appeler ainsi est lui même hébergé
+sur ce service. C’est par le plus grand des hasards que j’ai utilisé
+&lt;a href=&quot;http://jnordberg.github.io/wintersmith/&quot;&gt;wintersmith&lt;/a&gt; pour le gérer. A la
+base mon idée était de créer un moteur en &lt;em&gt;php&lt;/em&gt; alimenté par des fichiers
+&lt;em&gt;markdown&lt;/em&gt;. J’ai eu le réflexe, que j’ai de plus en plus maintenant, de
+chercher sur github ce qui se faisait sur la même idée. Et du coup j’ai creusé
+un petit peu du côté de wintersmith qui repose sur &lt;em&gt;coffee script&lt;/em&gt; (qui
+m’intéresse par ailleurs) qui était simple d’utilisation et qui collait
+parfaitement à mon besoin et à ma tendance à mettre les mains dedans.&lt;/p&gt;
+&lt;p&gt;J’exagère un petit peu sur les besoins rudimentaires du développeur. Même avec
+du statique il est possible de se faire plaisir. Il y a une bonne technicité
+derrière. C’est une logique plus déportée, un peu geek je le concède, que
+celle qui repose sur une interface d’administration. Les services tiers
+viennent aussi compléter le panel des possibilités, je pense à
+&lt;a href=&quot;http://disqus.com/&quot;&gt;disqus&lt;/a&gt; ou à &lt;a href=&quot;http://www.google.fr/cse/&quot;&gt;cse&lt;/a&gt; par
+exemple.&lt;/p&gt;
+&lt;p&gt;Je finis un peu en queue de poisson mais tant pis on est encore au mois
+d’avril. Au final, pour d’autres raisons je suis bien content d’être tombé sur
+ce petit hameçon aujourd’hui.&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Homologue .io</title>
+      <title>homologue.io</title>
       <link>http://jef.io/articles/homologue-io/</link>
-      <pubDate>Wed, 06 Mar 2013 23:31:00 +0400</pubDate>
+      <pubDate>Sun, 17 Mar 2013 22:00:00 +0400</pubDate>
       <guid isPermaLink="true">http://jef.io/articles/homologue-io/</guid>
       <author></author>
-      <description>&lt;p&gt;Je n&apos;avais absolument pas fait attention lors de l&apos;achat de ce nom de domaine mais je trouve marrantes les caractéristiques du profil de &lt;a href=&quot;http://www.jeff.io/&quot;&gt;mon homologue en .io&lt;/a&gt;. Ceux qui me connaissent trouveront sans doute aussi quelques similitudes… 
-&lt;/p&gt;
+      <description>&lt;p&gt;Je n’avais absolument pas fait attention lors de l’achat de ce nom de domaine
+mais je trouve marrantes les caractéristiques du profil de &lt;a href=&quot;http://www.jeff.io/&quot;&gt;mon homologue en
+.io&lt;/a&gt;. Ceux qui me connaissent trouveront sans doute aussi
+quelques similitudes…&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Essai de Sublime Text 2</title>
-      <link>http://jef.io/articles/essai-de-sublime-text-2/</link>
-      <pubDate>Tue, 26 Feb 2013 23:31:00 +0400</pubDate>
-      <guid isPermaLink="true">http://jef.io/articles/essai-de-sublime-text-2/</guid>
+      <title>sublime text 2</title>
+      <link>http://jef.io/articles/sublime-text-2/</link>
+      <pubDate>Sun, 03 Feb 2013 22:00:00 +0400</pubDate>
+      <guid isPermaLink="true">http://jef.io/articles/sublime-text-2/</guid>
       <author></author>
-      <description>&lt;p&gt;Je produis du code quotidiennement et j&apos;apporte une grande attention à mon outil de travail principal : l&apos;éditeur de texte. 
-
-&lt;/p&gt;
-&lt;p&gt;Il y a régulièrement de nouveaux challengers qui arrivent sur le marché et je suis souvent tenté de les essayer. D&apos;IDE trop fouillis en éditeurs ultra tendances, chaque tentative se conclut en expérience globalement décevante. Soit parce que cela n&apos;apporte rien, soit parce que cela manque de maturité soit parce qu&apos;ergonomiquement c&apos;est peu ragoulant ou que ça rame.
-De plus je reste jusqu&apos;à présent très satisfait de vim (ok j&apos;ai commencé par adorer emacs mais vim m&apos;a vite rattrapé il y a de ça 7 ans maintenant). Donc le niveau d&apos;exigence est assez élevé. Pour être vraiment honnête je devrais dire que c&apos;est un mélange d&apos;exigence et de frein à vouloir changer de paradigmes.
-
-&lt;/p&gt;
-&lt;p&gt;Je ne me considère pas être un power user de vim mais ça fait exactement ce que je veux et je m&apos;étais même dit qu&apos;il était inutile de donner sa chance au prochain.
-
-&lt;/p&gt;
-&lt;p&gt;Sauf que, sauf que... J&apos;ai pris le temps d&apos;essayer &lt;a href=&quot;http://www.sublimetext.com/&quot;&gt;Sublime Text 2&lt;/a&gt; qui n&apos;est pas non plus né de la dernière pluie en passant. Et j&apos;avoue que c&apos;est un éditeur très plaisant et qui a un bon potentiel que je ne lâche pas depuis une semaine. Je suis agréablement surpris.
-
-&lt;/p&gt;
-&lt;p&gt;Tout d&apos;abord il y a la fonctionnalité qui m&apos;a accroché : le &quot;vintage mode&quot;. C&apos;est à dire la possibilité d&apos;utiliser les commandes clavier de vi. C&apos;est vraiment parfait car ça prend le meilleur des deux mondes : Tu peux faire un dd puis faire un cmd-s pour enregistrer ton fichier si vraiment ça te chante.
-Ensuite il y a le petit bind en ligne de commande qui te permet de rajouter des fichiers ou des répertoires à l&apos;environnement d&apos;édition courant depuis un shell. C&apos;est pas le truc du siècle mais c&apos;est très pratique.
-Enfin il y a le fait que c&apos;est bien léger, joli et assez intuitif avec un petit bémol sur la barre de gauche qui ne mets pas assez d&apos;emphase entre les dossiers et les groupes mais c&apos;est pas plus gênant que ça. Il faut dire que je l&apos;utilise tel que livré et que je n&apos;ai pas mis encore mon nez dans la myriade de &lt;a href=&quot;http://wbond.net/sublime_packages/package_control&quot;&gt;plugins disponibles&lt;/a&gt;.
-
-&lt;/p&gt;
-&lt;p&gt;A noter que &lt;strong&gt;Sublime Text 3&lt;/strong&gt; est sur les rails, &lt;a href=&quot;http://www.sublimetext.com/blog/articles/sublime-text-3-beta&quot;&gt;ça risque de saigner&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Je produis du code quotidiennement et j’apporte une grande attention à mon
+outil de travail principal : l’éditeur de texte.&lt;/p&gt;
+&lt;p&gt;Il y a régulièrement de nouveaux challengers qui arrivent sur le marché et je suis souvent tenté de les essayer. &lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;D’IDE trop fouillis en éditeurs ultra tendances, chaque tentative se conclut en expérience globalement décevante.
+Soit parce que cela n’apporte rien, soit parce que cela manque de maturité
+soit parce qu’ergonomiquement c’est peu ragoulant ou que ça rame. De plus je
+reste jusqu’à présent très satisfait de vim (ok j’ai commencé par adorer emacs
+mais vim m’a vite rattrapé il y a de ça 7 ans maintenant). Donc le niveau
+d’exigence est assez élevé. Pour être vraiment honnête je devrais dire que
+c’est un mélange d’exigence et de frein à vouloir changer de paradigmes.&lt;/p&gt;
+&lt;p&gt;Je ne me considère pas être un power user de vim mais ça fait exactement ce
+que je veux et je m’étais même dit qu’il était inutile de donner sa chance au
+prochain.&lt;/p&gt;
+&lt;p&gt;Sauf que, sauf que… J’ai pris le temps d’essayer &lt;a href=&quot;http://www.sublimetext.com/&quot;&gt;Sublime Text
+2&lt;/a&gt; qui n’est pas non plus né de la dernière pluie
+en passant. Et j’avoue que c’est un éditeur très plaisant et qui a un bon
+potentiel que je ne lâche pas depuis une semaine. Je suis agréablement
+surpris.&lt;/p&gt;
+&lt;p&gt;Tout d’abord il y a la fonctionnalité qui m’a accroché : le “vintage mode”.
+C’est à dire la possibilité d’utiliser les commandes clavier de vi. C’est
+vraiment parfait car ça prend le meilleur des deux mondes : Tu peux faire un
+dd puis faire un cmd-s pour enregistrer ton fichier si vraiment ça te chante.
+Ensuite il y a le petit bind en ligne de commande qui te permet de rajouter
+des fichiers ou des répertoires à l’environnement d’édition courant depuis un
+shell. C’est pas le truc du siècle mais c’est très pratique. Enfin il y a le
+fait que c’est bien léger, joli et assez intuitif avec un petit bémol sur la
+barre de gauche qui ne mets pas assez d’emphase entre les dossiers et les
+groupes mais c’est pas plus gênant que ça. Il faut dire que je l’utilise tel
+que livré et que je n’ai pas mis encore mon nez dans la myriade de &lt;a href=&quot;http://wbond.net/sublime_packages/package_control&quot;&gt;plugins
+disponibles&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A noter que &lt;strong&gt;Sublime Text 3&lt;/strong&gt; est sur les rails, &lt;a href=&quot;http://www.sublimetext.com/blog/articles/sublime-text-3-beta&quot;&gt;ça risque de
+saigner&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     <item>
       <title>vim</title>
       <link>http://jef.io/articles/vim/</link>
-      <pubDate>Wed, 19 Dec 2012 12:12:00 +0400</pubDate>
+      <pubDate>Sat, 15 Dec 2012 15:00:00 +0400</pubDate>
       <guid isPermaLink="true">http://jef.io/articles/vim/</guid>
       <author></author>
-      <description>&lt;p&gt;Vim est un éditeur de texte puissant. Il est impératif de bien le paramétrer pour tirer profit de son potentiel. Et c&apos;est là qu&apos;est souvent le problème (après la phase d&apos;apprentissage bien entendu). Suite à la réinstallation de ma machine de travail, j&apos;ai voulu mettre à jour ma configuration afin de coller avec mon usage actuel (édition php, javascript et css 90% du temps) en tentant d&apos;éviter de trop plonger dans la syntaxe vimscript. J&apos;ai tout d&apos;abord cherché une solution clé en main avec des fichiers disponibles sur le net ci et là et parfois très prometteurs (&lt;a href=&quot;http://spf13.com/post/ultimate-vim-config&quot; title=&quot;Ultimate vim config&quot;&gt;à l&apos;américaine…&lt;/a&gt;).
-
-&lt;/p&gt;
-&lt;p&gt;Toutes les confs rencontrées sont très bien faites mais je pense que le paramétrage est réellement propre aux usages et aux habitudes de chacun. Et personnellement j&apos;ai besoin de peu par rapport à ce que j&apos;ai trouvé. C&apos;est à mon sens également un travail d&apos;affinage à effectuer au fil du temps et des besoins.
-
-&lt;/p&gt;
-&lt;p&gt;Donc comme je ne le souhaitais pas spécialement à la base, ça c&apos;est terminé par une reconstruction from scratch du fichier vimrc. Avec une petite différence cette fois ci : le repos &lt;a href=&quot;https://github.com/spf13/spf13-vim&quot;&gt;spf13-vim&lt;/a&gt; m&apos;a permis de mettre la main sur l&apos;excellent gestionnaire de plugins vim &lt;a href=&quot;https://github.com/gmarik/vundle&quot;&gt;vundle&lt;/a&gt;. Vundle permet de gérer simplement des plugins issus de &lt;a href=&quot;http://www.vim.org/scripts/&quot;&gt;vim-scripts&lt;/a&gt;, de &lt;a href=&quot;https://github.com/search?utf8=%E2%9C%93&amp;q=vim&amp;type=Everything&quot;&gt;github&lt;/a&gt; et d&apos;autres repos git.
-
-&lt;/p&gt;
-&lt;p&gt;Si toutefois ça intéresse encore quelqu&apos;un malgré tout ce que je viens de dire sur les inconvénients des solutions toutes faites, j&apos;ai créé un &lt;a href=&quot;https://github.com/lefakir/dot-files&quot;&gt;repos sur github&lt;/a&gt; avec ma conf.
-
-&lt;/p&gt;
+      <description>&lt;p&gt;Vim est un éditeur de texte puissant. Il est impératif de bien le paramétrer
+pour tirer profit de son potentiel. Et c’est là qu’est souvent le problème
+(après la phase d’apprentissage bien entendu). &lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Suite à la réinstallation de ma
+machine de travail, j’ai voulu mettre à jour ma configuration afin de coller
+avec mon usage actuel (édition php, javascript et css 90% du temps) en tentant
+d’éviter de trop plonger dans la syntaxe vimscript. J’ai tout d’abord cherché
+une solution clé en main avec des fichiers disponibles sur le net ci et là et
+parfois très prometteurs (&lt;a href=&quot;http://spf13.com/post/ultimate-%0Avim-config&quot;&gt;à l’américaine…&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Toutes les confs rencontrées sont très bien faites mais je pense que le
+paramétrage est réellement propre aux usages et aux habitudes de chacun. Et
+personnellement j’ai besoin de peu par rapport à ce que j’ai trouvé. C’est à
+mon sens également un travail d’affinage à effectuer au fil du temps et des
+besoins.&lt;/p&gt;
+&lt;p&gt;Donc comme je ne le souhaitais pas spécialement à la base, ça c’est terminé
+par une reconstruction from scratch du fichier vimrc. Avec une petite
+différence cette fois ci : le repos
+&lt;a href=&quot;https://github.com/spf13/spf13-vim&quot;&gt;spf13-vim&lt;/a&gt; m’a permis de mettre la main
+sur l’excellent gestionnaire de plugins vim
+&lt;a href=&quot;https://github.com/gmarik/vundle&quot;&gt;vundle&lt;/a&gt;. Vundle permet de gérer simplement
+des plugins issus de &lt;a href=&quot;http://www.vim.org/scripts/&quot;&gt;vim-scripts&lt;/a&gt;, de
+&lt;a href=&quot;https://github.com/search?utf8=%E2%9C%93&amp;amp;q=vim&amp;amp;type=Everything&quot;&gt;github&lt;/a&gt; et
+d’autres repos git.&lt;/p&gt;
+&lt;p&gt;Si toutefois ça intéresse encore quelqu’un malgré tout ce que je viens de dire
+sur les inconvénients des solutions toutes faites, j’ai créé un &lt;a href=&quot;https://github.com/lefakir/dot-files&quot;&gt;repos sur
+github&lt;/a&gt; avec ma conf.&lt;/p&gt;
 </description>
     </item>
   </channel>
