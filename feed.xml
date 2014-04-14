@@ -5,9 +5,20 @@
     <atom:link href="http://jef.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://jef.io</link>
     <description></description>
-    <pubDate>Fri, 28 Feb 2014 22:00:00 +0400</pubDate>
+    <pubDate>Mon, 14 Apr 2014 06:30:00 +0400</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Creolipsum, le lorem ipsum péi</title>
+      <link>http://jef.io/articles/creolipsum-lorem-ipsum-pei/</link>
+      <pubDate>Mon, 14 Apr 2014 06:30:00 +0400</pubDate>
+      <guid isPermaLink="true">http://jef.io/articles/creolipsum-lorem-ipsum-pei/</guid>
+      <author></author>
+      <description>&lt;p&gt;La semaine dernière j’ai lancé &lt;a href=&quot;http://creolipsum.net/&quot;&gt;creolipsum.net&lt;/a&gt;, le générateur de faux texte en créole. 
+J’avais cette idée en tête depuis assez longtemps et je trouvais assez creux de le réaliser en &lt;strong&gt;php&lt;/strong&gt; et de ne pas en profiter pour tester de nouvelles choses.&lt;/p&gt;
+&lt;p&gt;C’est donc ma (très modeste) première experience avec &lt;a href=&quot;http://golang.org/&quot;&gt;Go&lt;/a&gt; déployé sur &lt;a href=&quot;http://heroku.com/&quot;&gt;Heroku&lt;/a&gt;. J’espère pouvoir approfondir mes connaissances en &lt;strong&gt;Go&lt;/strong&gt;, langage bien plaisant aux propriétés intéressantes.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>3 dollars bien dépensés</title>
       <link>http://jef.io/articles/3-dollars-bien-depenses/</link>
