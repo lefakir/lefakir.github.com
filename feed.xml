@@ -5,9 +5,38 @@
     <atom:link href="http://jef.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://jef.io</link>
     <description></description>
-    <pubDate>Mon, 14 Apr 2014 06:30:00 +0400</pubDate>
+    <pubDate>Thu, 24 Jul 2014 23:15:00 +0400</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Toggl, le time tracking qu'il vous faut !</title>
+      <link>http://jef.io/articles/toggl-time-tracking/</link>
+      <pubDate>Thu, 24 Jul 2014 23:15:00 +0400</pubDate>
+      <guid isPermaLink="true">http://jef.io/articles/toggl-time-tracking/</guid>
+      <author></author>
+      <description>&lt;p&gt;Comme le décrit si bien &lt;a href=&quot;http://www.joelonsoftware.com/items/2007/10/26.html&quot;&gt;Joel Spolsky&lt;/a&gt;, les développeurs ne sont pas à l’aise avec les estimations. Ce n’est pas une nouveauté.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Why won’t developers make schedules? Two reasons. One: it’s a pain in the butt. Two: nobody believes the schedule is realistic. Why go to all the trouble of working on a schedule if it’s not going to be right?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Je ne vais pas m’étaler ici sur le pourquoi du comment des estimations mais que ce soit en &lt;strong&gt;waterfall&lt;/strong&gt; ou en approche &lt;strong&gt;agile&lt;/strong&gt; &lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
+avec d’autres échelles de valeur, mais à la demande de votre chef de projet ou de votre propre chef il faut bien souvent passer par cet exercice. Je trouve que c’est même &lt;em&gt;fortement conseillé&lt;/em&gt; lorsqu’on aborde une tâche ou un problème qu’il y ait ou non un coût induit. Et je n’échappe pas à la règle en visant plus ou moins juste dans ce que j’annonce. L’experience aidant, cela tend à être de plus en plus fiable.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;On ne peut améliorer que ce que l’on peut mesurer&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Pour l’affinage et la fiabilité, la contrepartie naturelle de l’estimation des tâches c’est le suivi des temps ou le &lt;strong&gt;time tracking&lt;/strong&gt;. Je ne sais pas si vous avez essayé mais c’est réellement difficile. Et ceci pour diverses raisons : Il faut de la rigueur, ne pas oublier de noter ce qui vient d’être achevé totalement ou partiellement, faire des soustractions de dates, tenir compte des interruptions lorsque l’on est sollicités sur plusieurs tâches en même temps, on est pas forcément vissés sur notre chaise… un bon casse tête qui peut vite conduire à passer plus de temps à suivre ce que l’on fait qu’à le faire réellement.&lt;/p&gt;
+&lt;p&gt;Vient alors &lt;a href=&quot;http://toggl.com/&quot;&gt;Toggl&lt;/a&gt;. C’est la solution &lt;em&gt;parfaite&lt;/em&gt; pour le &lt;strong&gt;time tracking&lt;/strong&gt;. Cela faisait longtemps que je ne croyais plus à la pertinence de ce type d’outils pour avoir essayé &lt;a href=&quot;https://mg.pov.lt/gtimelog/&quot;&gt;gtimelog&lt;/a&gt; il y a fort longtemps, puis de temps en temps des solutions dont j’ai depuis oublié l’existence. Je n’avais trouvé aucun logiciel qui apporte le service attendu sans contrainte.&lt;/p&gt;
+&lt;p&gt;Toggl répond à cela. Le service peut s’utiliser dans le navigateur, se synchroniser avec un smartphone ou une application desktop et vice et versa. Je conseille vivement de tester l’outil, c’est bluffant de simplicité. Sinon vous pouvez toujours faire le tour des features &lt;a href=&quot;https://www.toggl.com/tour/web&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ce que j’aime tout particulièrement avec &lt;strong&gt;Toggl&lt;/strong&gt; c’est :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;l’interface web, intuitive et ergonomique, qui permet de se représenter facilement là ou on en est&lt;/li&gt;
+&lt;li&gt;l’application desktop qui permet de recaler sans peine les oublis ou les écarts&lt;/li&gt;
+&lt;li&gt;toujours avec l’appli desktop la détection de temps &lt;strong&gt;idle&lt;/strong&gt;, c’est à dire les periodes d’inactivité devant l’écran&lt;/li&gt;
+&lt;li&gt;le mail de récap’ de la semaine écoulée&lt;/li&gt;
+&lt;li&gt;la simplicité générale d’utilisation et de création de projets/tâches&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Je n’utilise pour l’instant que la version gratuite  et c’est amplement suffisant. Enfin, il est intéressant de remarquer que les applications desktop et mobiles sont open sourcées (entre autres) sur le &lt;a href=&quot;https://github.com/toggl&quot;&gt;profil github&lt;/a&gt; de &lt;strong&gt;Toggl&lt;/strong&gt;, pas d’embrouille avec le produit.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Creolipsum, le lorem ipsum péi</title>
       <link>http://jef.io/articles/creolipsum-lorem-ipsum-pei/</link>
