@@ -5,9 +5,25 @@
     <atom:link href="http://jef.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://jef.io</link>
     <description></description>
-    <pubDate>Thu, 24 Jul 2014 23:15:00 +0400</pubDate>
+    <pubDate>Mon, 15 Sep 2014 22:00:00 +0400</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Quelques liens pour septembre</title>
+      <link>http://jef.io/articles/quelques-liens-sept/</link>
+      <pubDate>Mon, 15 Sep 2014 22:00:00 +0400</pubDate>
+      <guid isPermaLink="true">http://jef.io/articles/quelques-liens-sept/</guid>
+      <author></author>
+      <description>&lt;p&gt;Voici une courte mais non moins dense sélection de liens qui ont capté mon attention ces derniers jours. &lt;span class=&quot;more&quot;/&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;8 trucs &lt;strong&gt;infaillibles&lt;/strong&gt; pour tuer son auto-entreprise &lt;a href=&quot;http://www.ithaquecoaching.com/articles/8-trucs-infaillibles-pour-tuer-son-auto-entreprise-566.html&quot;&gt;sur le blog d’Ithaque Coaching&lt;/a&gt; (via &lt;a href=&quot;https://forum.pragmaticentrepreneurs.com/&quot;&gt;Pragmatic Entrepreneurs&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Quand on vous dit que les &lt;strong&gt;estimations&lt;/strong&gt; &lt;a href=&quot;http://www.infoq.com/articles/software-development-effort-estimation&quot;&gt;ce n’est pas de la tarte&lt;/a&gt; article tiré d’IEEE Software magazine.&lt;/li&gt;
+&lt;li&gt;Même si cela date un petit peu, de nombreuses astuces compilées plus ou moins connus pour &lt;a href=&quot;http://www.hanselman.com/blog/ScottHanselmansCompleteListOfProductivityTips.aspx&quot;&gt;travailler au corps sa productivité&lt;/a&gt; par Scott Hanselman.&lt;/li&gt;
+&lt;li&gt;Ainsi que des conseils bien avisés pour &lt;a href=&quot;http://mattgemmell.com/working-from-home/&quot;&gt;bien travailler à la maison&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Point final.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Toggl, le time tracking qu'il vous faut !</title>
       <link>http://jef.io/articles/toggl-time-tracking/</link>
