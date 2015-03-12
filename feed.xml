@@ -5,9 +5,30 @@
     <atom:link href="http://jef.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://jef.io</link>
     <description></description>
-    <pubDate>Mon, 15 Sep 2014 22:00:00 +0400</pubDate>
+    <pubDate>Tue, 10 Mar 2015 22:00:00 +0400</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Les mains dans Clojure (#FUE)</title>
+      <link>http://jef.io/articles/les-mains-dans-clojure/</link>
+      <pubDate>Tue, 10 Mar 2015 22:00:00 +0400</pubDate>
+      <guid isPermaLink="true">http://jef.io/articles/les-mains-dans-clojure/</guid>
+      <author></author>
+      <description>&lt;p&gt;Je croise le fonctionnel depuis de nombreuses années. Et j’ai toujours eu envie de m’y mettre. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/les-mains-dans-clojure/Clojure-logo.png&quot; alt=&quot;Clojure&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;J’ai bien suivi par le passé quelques tutos &lt;a href=&quot;http://caml.inria.fr/ocaml/index.fr.html&quot;&gt;OCaml&lt;/a&gt; (cocorico) ou joué avec quelques repl &lt;a href=&quot;https://www.haskell.org/&quot;&gt;Haskell&lt;/a&gt; ou encore lorgné sur les super pouvoirs d’&lt;a href=&quot;http://www.erlang.org/&quot;&gt;Erlang&lt;/a&gt; mais tout ceci n’est resté que très dilué parmi les nombreux sujets de veille qui aiguisent mon attention; de la curiosité et de la &lt;strike&gt;procrastination&lt;/strike&gt; distraction.&lt;/p&gt;
+&lt;p&gt;C’est d’ailleurs par le biais de la distraction que j’ai eu envie d’en savoir un peu plus sur &lt;a href=&quot;http://clojure.org/&quot;&gt;Clojure&lt;/a&gt; que j’ai découvert par hasard (et &lt;a href=&quot;http://www.scala-lang.org/&quot;&gt;Scala&lt;/a&gt; par ricochets) il y à peu près 3 ans : &lt;strong&gt;Mais diantre quelle idée saugrenue de faire autre chose que du Java avec la JVM, j’aime ça !&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Et j’ai été séduit quasiment instantanément (c’est souvent comme ça entre les langages et moi…) par cette créature et par les idées de son créateur. J’expliquerai peut être un jour en détail pourquoi mais pour résumer &lt;em&gt;Clojure&lt;/em&gt; sonne pour moi &lt;em&gt;FUE&lt;/em&gt; : &lt;strong&gt;Fun&lt;/strong&gt;, potentiellement &lt;strong&gt;Utile&lt;/strong&gt; et &lt;strong&gt;Enrichissant&lt;/strong&gt;. Oui en informatique on aime inventer des acronymes.&lt;/p&gt;
+&lt;p&gt;Mais depuis je dois dire que mes tentatives de m’y mettre ont été vaines. Je pense n’avoir pas testé la formule qui me me correspond. Et je peux être assez lent à l’allumage si je ne suis pas dans l’urgence avec une grosse épée de Damoclès au dessus de ma tête. Bref les &lt;a href=&quot;http://clojurekoans.com/&quot;&gt;Clojure Koans&lt;/a&gt; j’ai trouvé que ça manquait de profondeur, attaquer des problème du &lt;a href=&quot;https://projecteuler.net/&quot;&gt;projet Euler&lt;/a&gt; était un peu abrupte au bout d’un moment tout comme faire joujou avec &lt;a href=&quot;https://github.com/clojure/clojurescript&quot;&gt;ClojureScript&lt;/a&gt; plus prompt à ramener à une réalité javascript. &lt;/p&gt;
+&lt;p&gt;J’ai aussi lu pas mal de choses sans que ce soit vraiment concluant. Je ne dis pas que ce qui est mis à disposition de la communauté n’est pas bien, bien au contraire. Je ne me suis pas assez donné la peine.&lt;/p&gt;
+&lt;p&gt;Et finalement je pense avoir trouvé « la » bonne solution. Quelques uluberlus scandinaves ont conçu un MOOC nommé &lt;a href=&quot;http://mooc.fi/courses/2014/clojure/index.html&quot;&gt;« Functional programming with Clojure »&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;La progression dans le MOOC se fait de manière assez originale.
+Les tutoriels s’appuient sur des projets &lt;a href=&quot;http://leiningen.org/&quot;&gt;Leiningen&lt;/a&gt; hébergés sur github. Il faut cloner le projet qui correspond au chapitre suivi, compléter les exercices dans le code du projet, pousser les modifs sur github et proposer une pull request. Tout ceci est passé à la moulinette par Travis à travers des tests, rendant ainsi disponible le pourcentage d’exercices justes.&lt;/p&gt;
+&lt;p&gt;Je n’en suis qu’à la troisième étape mais je trouve que c’est très bien expliqué et rassurant. Ca y va suffisamment progressivement sur la syntaxe pour donner envie de poursuivre sur des concepts plus propres au fonctionnel. Tout ceci avec du fun en perspective &lt;em&gt;#FUE&lt;/em&gt; !&lt;/p&gt;
+&lt;p&gt;Je pense que si ce n’avait pas été &lt;em&gt;Clojure&lt;/em&gt; je pense que ça aurait très bien pu être &lt;a href=&quot;http://docs.hylang.org/en/latest/&quot;&gt;Hy&lt;/a&gt; son cousin Python. Mais bon en théorie ça devrait être plus facilement abordable une fois les automatismes de Lisp acquis. &lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Quelques liens pour septembre</title>
       <link>http://jef.io/articles/quelques-liens-sept/</link>
@@ -16,7 +37,7 @@
       <author></author>
       <description>&lt;p&gt;Voici une courte mais non moins dense sélection de liens qui ont capté mon attention ces derniers jours. &lt;span class=&quot;more&quot;/&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;8 trucs &lt;strong&gt;infaillibles&lt;/strong&gt; pour tuer son auto-entreprise &lt;a href=&quot;http://www.ithaquecoaching.com/articles/8-trucs-infaillibles-pour-tuer-son-auto-entreprise-566.html&quot;&gt;sur le blog d’Ithaque Coaching&lt;/a&gt; (via &lt;a href=&quot;https://forum.pragmaticentrepreneurs.com/&quot;&gt;Pragmatic Entrepreneurs&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;8 trucs &lt;strong&gt;infaillibles&lt;/strong&gt; pour tuer son auto-entreprise &lt;a href=&quot;http://www.ithaquecoaching.com/articles/8-trucs-infaillibles-pour-tuer-son-auto-entreprise-566.html&quot;&gt;sur le blog d’Ithaque Coaching&lt;/a&gt; (via &lt;a href=&quot;https://forum.pragmaticentrepreneurs.com&quot;&gt;Pragmatic Entrepreneurs&lt;/a&gt;).&lt;/li&gt;
 &lt;li&gt;Quand on vous dit que les &lt;strong&gt;estimations&lt;/strong&gt; &lt;a href=&quot;http://www.infoq.com/articles/software-development-effort-estimation&quot;&gt;ce n’est pas de la tarte&lt;/a&gt; article tiré d’IEEE Software magazine.&lt;/li&gt;
 &lt;li&gt;Même si cela date un petit peu, de nombreuses astuces compilées plus ou moins connus pour &lt;a href=&quot;http://www.hanselman.com/blog/ScottHanselmansCompleteListOfProductivityTips.aspx&quot;&gt;travailler au corps sa productivité&lt;/a&gt; par Scott Hanselman.&lt;/li&gt;
 &lt;li&gt;Ainsi que des conseils bien avisés pour &lt;a href=&quot;http://mattgemmell.com/working-from-home/&quot;&gt;bien travailler à la maison&lt;/a&gt;.&lt;/li&gt;
@@ -40,7 +61,7 @@ avec d’autres échelles de valeur, mais à la demande de votre chef de projet 
 &lt;p&gt;On ne peut améliorer que ce que l’on peut mesurer&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Pour l’affinage et la fiabilité, la contrepartie naturelle de l’estimation des tâches c’est le suivi des temps ou le &lt;strong&gt;time tracking&lt;/strong&gt;. Je ne sais pas si vous avez essayé mais c’est réellement difficile. Et ceci pour diverses raisons : Il faut de la rigueur, ne pas oublier de noter ce qui vient d’être achevé totalement ou partiellement, faire des soustractions de dates, tenir compte des interruptions lorsque l’on est sollicités sur plusieurs tâches en même temps, on est pas forcément vissés sur notre chaise… un bon casse tête qui peut vite conduire à passer plus de temps à suivre ce que l’on fait qu’à le faire réellement.&lt;/p&gt;
-&lt;p&gt;Vient alors &lt;a href=&quot;http://toggl.com/&quot;&gt;Toggl&lt;/a&gt;. C’est la solution &lt;em&gt;parfaite&lt;/em&gt; pour le &lt;strong&gt;time tracking&lt;/strong&gt;. Cela faisait longtemps que je ne croyais plus à la pertinence de ce type d’outils pour avoir essayé &lt;a href=&quot;https://mg.pov.lt/gtimelog/&quot;&gt;gtimelog&lt;/a&gt; il y a fort longtemps, puis de temps en temps des solutions dont j’ai depuis oublié l’existence. Je n’avais trouvé aucun logiciel qui apporte le service attendu sans contrainte.&lt;/p&gt;
+&lt;p&gt;Vient alors &lt;a href=&quot;http://toggl.com&quot;&gt;Toggl&lt;/a&gt;. C’est la solution &lt;em&gt;parfaite&lt;/em&gt; pour le &lt;strong&gt;time tracking&lt;/strong&gt;. Cela faisait longtemps que je ne croyais plus à la pertinence de ce type d’outils pour avoir essayé &lt;a href=&quot;https://mg.pov.lt/gtimelog/&quot;&gt;gtimelog&lt;/a&gt; il y a fort longtemps, puis de temps en temps des solutions dont j’ai depuis oublié l’existence. Je n’avais trouvé aucun logiciel qui apporte le service attendu sans contrainte.&lt;/p&gt;
 &lt;p&gt;Toggl répond à cela. Le service peut s’utiliser dans le navigateur, se synchroniser avec un smartphone ou une application desktop et vice et versa. Je conseille vivement de tester l’outil, c’est bluffant de simplicité. Sinon vous pouvez toujours faire le tour des features &lt;a href=&quot;https://www.toggl.com/tour/web&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Ce que j’aime tout particulièrement avec &lt;strong&gt;Toggl&lt;/strong&gt; c’est :&lt;/p&gt;
 &lt;ul&gt;
@@ -59,9 +80,9 @@ avec d’autres échelles de valeur, mais à la demande de votre chef de projet 
       <pubDate>Mon, 14 Apr 2014 06:30:00 +0400</pubDate>
       <guid isPermaLink="true">http://jef.io/articles/creolipsum-lorem-ipsum-pei/</guid>
       <author></author>
-      <description>&lt;p&gt;La semaine dernière j’ai lancé &lt;a href=&quot;http://creolipsum.net/&quot;&gt;creolipsum.net&lt;/a&gt;, le générateur de faux texte en créole. 
+      <description>&lt;p&gt;La semaine dernière j’ai lancé &lt;a href=&quot;http://creolipsum.net&quot;&gt;creolipsum.net&lt;/a&gt;, le générateur de faux texte en créole. 
 J’avais cette idée en tête depuis assez longtemps et je trouvais assez creux de le réaliser en &lt;strong&gt;php&lt;/strong&gt; et de ne pas en profiter pour tester de nouvelles choses.&lt;/p&gt;
-&lt;p&gt;C’est donc ma (très modeste) première experience avec &lt;a href=&quot;http://golang.org/&quot;&gt;Go&lt;/a&gt; déployé sur &lt;a href=&quot;http://heroku.com/&quot;&gt;Heroku&lt;/a&gt;. J’espère pouvoir approfondir mes connaissances en &lt;strong&gt;Go&lt;/strong&gt;, langage bien plaisant aux propriétés intéressantes.&lt;/p&gt;
+&lt;p&gt;C’est donc ma (très modeste) première experience avec &lt;a href=&quot;http://golang.org&quot;&gt;Go&lt;/a&gt; déployé sur &lt;a href=&quot;http://heroku.com&quot;&gt;Heroku&lt;/a&gt;. J’espère pouvoir approfondir mes connaissances en &lt;strong&gt;Go&lt;/strong&gt;, langage bien plaisant aux propriétés intéressantes.&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -131,7 +152,9 @@ rencontré un succès dans toute la francophonie et reçu un echo médiatique
 assez important sur le plan national et c’est tant mieux. Ce genre
 d’initiatives est à encourager. C’est assez génial de pouvoir accéder à la
 connaissance comme cela tout en suivant son propre rythme. Si le montage du
-projet vous intéresse je vous conseille la &lt;a href=&quot;http://jef.io/articles/2013-11-MoocGdp-check/://blog.educpros.fr%0A/matthieu-cisel/2013/10/08/la-conception-du-mooc-gestion-de-projet-facon-%0Awikipedia/&quot;&gt;lecture de ce
+projet vous intéresse je vous conseille la &lt;a href=&quot;http://jef.io/articles/2013-11-MoocGdp-check/://blog.educpros.fr
+/matthieu-cisel/2013/10/08/la-conception-du-mooc-gestion-de-projet-facon-
+wikipedia/&quot;&gt;lecture de ce
 billet&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Me reste plus qu’à avoir une note maintenant pour valider le tout !&lt;/p&gt;
 </description>
@@ -167,7 +190,8 @@ A part ça je le recommande les yeux fermés et j’aurais difficilement du mal 
 m’en passer aujourd’hui.&lt;/p&gt;
 &lt;p&gt;PS : Profitant de l’écriture de ce billet pour retourner sur le site de
 l’auteur, je tombe sur un petit addon qui peut être pas mal
-&lt;a href=&quot;http://brettterpstra.com/2013/06/01/nvremind-automatic-reminders-%0Afor-nvalt/&quot;&gt;nvremind&lt;/a&gt; pour générer des notifications ou des emails à partir des notes;
+&lt;a href=&quot;http://brettterpstra.com/2013/06/01/nvremind-automatic-reminders-
+for-nvalt/&quot;&gt;nvremind&lt;/a&gt; pour générer des notifications ou des emails à partir des notes;
 le genre de trucs qui dans l’absolu peut être pas mal !&lt;/p&gt;
 </description>
     </item>
@@ -331,7 +355,8 @@ machine de travail, j’ai voulu mettre à jour ma configuration afin de coller
 avec mon usage actuel (édition php, javascript et css 90% du temps) en tentant
 d’éviter de trop plonger dans la syntaxe vimscript. J’ai tout d’abord cherché
 une solution clé en main avec des fichiers disponibles sur le net ci et là et
-parfois très prometteurs (&lt;a href=&quot;http://spf13.com/post/ultimate-%0Avim-config&quot;&gt;à l’américaine…&lt;/a&gt;).&lt;/p&gt;
+parfois très prometteurs (&lt;a href=&quot;http://spf13.com/post/ultimate-
+vim-config&quot;&gt;à l’américaine…&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;Toutes les confs rencontrées sont très bien faites mais je pense que le
 paramétrage est réellement propre aux usages et aux habitudes de chacun. Et
 personnellement j’ai besoin de peu par rapport à ce que j’ai trouvé. C’est à
