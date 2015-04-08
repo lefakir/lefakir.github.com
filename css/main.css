@@ -217,6 +217,7 @@ footer .copy, footer .copy a {
   display: block;
   /* width: 100%; */
   margin: 0 auto;
+  max-width: 100%;
 }
 
 .more, .date {
