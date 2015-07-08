@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>jef.io</title>
-    <atom:link href="http://jef.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
-    <link>http://jef.io</link>
+    <atom:link href="http://notes.jef.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://notes.jef.io</link>
     <description></description>
     <pubDate>Wed, 08 Jul 2015 11:45:00 +0400</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
       <title>Deploy meteor on Digital Ocean with Dokku-alt</title>
-      <link>http://jef.io/articles/deploy-meteor-on-digital-ocan-with-dokku-alt/</link>
+      <link>http://notes.jef.io/articles/deploy-meteor-on-digital-ocan-with-dokku-alt/</link>
       <pubDate>Wed, 08 Jul 2015 11:45:00 +0400</pubDate>
-      <guid isPermaLink="true">http://jef.io/articles/deploy-meteor-on-digital-ocan-with-dokku-alt/</guid>
+      <guid isPermaLink="true">http://notes.jef.io/articles/deploy-meteor-on-digital-ocan-with-dokku-alt/</guid>
       <author></author>
       <description>&lt;p&gt;Last week, i found a very useful tutorial on how to deploy &lt;em&gt;meteor&lt;/em&gt; using &lt;em&gt;dokku&lt;/em&gt; on &lt;em&gt;Digital Ocean&lt;/em&gt; : &lt;a href=&quot;http://www.maxmalm.se/blog/2015-06-12-digitalocean-dokku-meteor&quot;&gt;&lt;a href=&quot;http://www.maxmalm.se/blog/2015-06-12-digitalocean-dokku-meteor&quot;&gt;http://www.maxmalm.se/blog/2015-06-12-digitalocean-dokku-meteor&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;But it didn’t work with my insane &lt;strong&gt;dokku-alt&lt;/strong&gt; mini &lt;em&gt;PaaS&lt;/em&gt;.&lt;/p&gt;
@@ -73,9 +73,9 @@ MONGODB_URL:  mongodb://todo:GRVd65YMVO5YofvP@mongodb:27017/todo
     </item>
     <item>
       <title>Lectures du 08 avril 2015</title>
-      <link>http://jef.io/articles/quelques-liens-avril-2015/</link>
+      <link>http://notes.jef.io/articles/quelques-liens-avril-2015/</link>
       <pubDate>Wed, 08 Apr 2015 22:00:00 +0400</pubDate>
-      <guid isPermaLink="true">http://jef.io/articles/quelques-liens-avril-2015/</guid>
+      <guid isPermaLink="true">http://notes.jef.io/articles/quelques-liens-avril-2015/</guid>
       <author></author>
       <description>&lt;p&gt;Quelques liens glanés sur le web :&lt;/p&gt;
 &lt;p&gt;&lt;li&gt;Budget vs estimation : &lt;a href=« https://hbr.org/2014/12/your-agile-project-needs-a-budget-not-an-estimate »&gt;Your Agile Project Needs a Budget, Not an Estimate -&amp;nbsp;&lt;span class=« caps »&gt;HBR&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
@@ -90,12 +90,12 @@ MONGODB_URL:  mongodb://todo:GRVd65YMVO5YofvP@mongodb:27017/todo
     </item>
     <item>
       <title>Les mains dans Clojure (#FUE)</title>
-      <link>http://jef.io/articles/les-mains-dans-clojure/</link>
+      <link>http://notes.jef.io/articles/les-mains-dans-clojure/</link>
       <pubDate>Tue, 10 Mar 2015 22:00:00 +0400</pubDate>
-      <guid isPermaLink="true">http://jef.io/articles/les-mains-dans-clojure/</guid>
+      <guid isPermaLink="true">http://notes.jef.io/articles/les-mains-dans-clojure/</guid>
       <author></author>
       <description>&lt;p&gt;Je croise le fonctionnel depuis de nombreuses années. Et j’ai toujours eu envie de m’y mettre. &lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://jef.io/articles/les-mains-dans-clojure/Clojure-logo.png&quot; alt=&quot;Clojure&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://notes.jef.io/articles/les-mains-dans-clojure/Clojure-logo.png&quot; alt=&quot;Clojure&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;J’ai bien suivi par le passé quelques tutos &lt;a href=&quot;http://caml.inria.fr/ocaml/index.fr.html&quot;&gt;OCaml&lt;/a&gt; (cocorico) ou joué avec quelques repl &lt;a href=&quot;https://www.haskell.org/&quot;&gt;Haskell&lt;/a&gt; ou encore lorgné sur les super pouvoirs d’&lt;a href=&quot;http://www.erlang.org/&quot;&gt;Erlang&lt;/a&gt; mais tout ceci n’est resté que très dilué parmi les nombreux sujets de veille qui aiguisent mon attention; de la curiosité et de la &lt;strike&gt;procrastination&lt;/strike&gt; distraction.&lt;/p&gt;
 &lt;p&gt;C’est d’ailleurs par le biais de la distraction que j’ai eu envie d’en savoir un peu plus sur &lt;a href=&quot;http://clojure.org/&quot;&gt;Clojure&lt;/a&gt; que j’ai découvert par hasard (et &lt;a href=&quot;http://www.scala-lang.org/&quot;&gt;Scala&lt;/a&gt; par ricochets) il y à peu près 3 ans : &lt;strong&gt;Mais diantre quelle idée saugrenue de faire autre chose que du Java avec la JVM, j’aime ça !&lt;/strong&gt;&lt;/p&gt;
@@ -111,9 +111,9 @@ Les tutoriels s’appuient sur des projets &lt;a href=&quot;http://leiningen.org
     </item>
     <item>
       <title>Quelques liens pour septembre</title>
-      <link>http://jef.io/articles/quelques-liens-sept/</link>
+      <link>http://notes.jef.io/articles/quelques-liens-sept/</link>
       <pubDate>Mon, 15 Sep 2014 22:00:00 +0400</pubDate>
-      <guid isPermaLink="true">http://jef.io/articles/quelques-liens-sept/</guid>
+      <guid isPermaLink="true">http://notes.jef.io/articles/quelques-liens-sept/</guid>
       <author></author>
       <description>&lt;p&gt;Voici une courte mais non moins dense sélection de liens qui ont capté mon attention ces derniers jours. &lt;span class=&quot;more&quot;/&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -127,9 +127,9 @@ Les tutoriels s’appuient sur des projets &lt;a href=&quot;http://leiningen.org
     </item>
     <item>
       <title>Toggl, le time tracking qu'il vous faut !</title>
-      <link>http://jef.io/articles/toggl-time-tracking/</link>
+      <link>http://notes.jef.io/articles/toggl-time-tracking/</link>
       <pubDate>Thu, 24 Jul 2014 23:15:00 +0400</pubDate>
-      <guid isPermaLink="true">http://jef.io/articles/toggl-time-tracking/</guid>
+      <guid isPermaLink="true">http://notes.jef.io/articles/toggl-time-tracking/</guid>
       <author></author>
       <description>&lt;p&gt;Comme le décrit si bien &lt;a href=&quot;http://www.joelonsoftware.com/items/2007/10/26.html&quot;&gt;Joel Spolsky&lt;/a&gt;, les développeurs ne sont pas à l’aise avec les estimations. Ce n’est pas une nouveauté.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -156,9 +156,9 @@ avec d’autres échelles de valeur, mais à la demande de votre chef de projet 
     </item>
     <item>
       <title>Creolipsum, le lorem ipsum péi</title>
-      <link>http://jef.io/articles/creolipsum-lorem-ipsum-pei/</link>
+      <link>http://notes.jef.io/articles/creolipsum-lorem-ipsum-pei/</link>
       <pubDate>Mon, 14 Apr 2014 06:30:00 +0400</pubDate>
-      <guid isPermaLink="true">http://jef.io/articles/creolipsum-lorem-ipsum-pei/</guid>
+      <guid isPermaLink="true">http://notes.jef.io/articles/creolipsum-lorem-ipsum-pei/</guid>
       <author></author>
       <description>&lt;p&gt;La semaine dernière j’ai lancé &lt;a href=&quot;http://creolipsum.net/&quot;&gt;creolipsum.net&lt;/a&gt;, le générateur de faux texte en créole. 
 J’avais cette idée en tête depuis assez longtemps et je trouvais assez creux de le réaliser en &lt;strong&gt;php&lt;/strong&gt; et de ne pas en profiter pour tester de nouvelles choses.&lt;/p&gt;
@@ -167,9 +167,9 @@ J’avais cette idée en tête depuis assez longtemps et je trouvais assez creux
     </item>
     <item>
       <title>3 dollars bien dépensés</title>
-      <link>http://jef.io/articles/3-dollars-bien-depenses/</link>
+      <link>http://notes.jef.io/articles/3-dollars-bien-depenses/</link>
       <pubDate>Fri, 28 Feb 2014 22:00:00 +0400</pubDate>
-      <guid isPermaLink="true">http://jef.io/articles/3-dollars-bien-depenses/</guid>
+      <guid isPermaLink="true">http://notes.jef.io/articles/3-dollars-bien-depenses/</guid>
       <author></author>
       <description>&lt;p&gt;Jusqu’ici j’ai été sceptique de l’efficacité de Kanban (déplacer des post-it de colonne en colonne et après ?).&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
@@ -182,9 +182,9 @@ J’avais cette idée en tête depuis assez longtemps et je trouvais assez creux
     </item>
     <item>
       <title>MOOC, première experience</title>
-      <link>http://jef.io/articles/mooc-premiere-experience/</link>
+      <link>http://notes.jef.io/articles/mooc-premiere-experience/</link>
       <pubDate>Thu, 21 Nov 2013 22:00:00 +0400</pubDate>
-      <guid isPermaLink="true">http://jef.io/articles/mooc-premiere-experience/</guid>
+      <guid isPermaLink="true">http://notes.jef.io/articles/mooc-premiere-experience/</guid>
       <author></author>
       <description>&lt;p&gt;J’ai rencontré le terme &lt;strong&gt;MOOC&lt;/strong&gt; pour la toute première fois en consultant le
 blog de &lt;a href=&quot;http://blog.nexboo.com/?p=421&quot;&gt;nexboo&lt;/a&gt; et cela a tout de suite
@@ -239,9 +239,9 @@ billet&lt;/a&gt;.&lt;/p&gt;
     </item>
     <item>
       <title>prise de notes avec nvALT</title>
-      <link>http://jef.io/articles/prise-de-notes-avec-nvalt/</link>
+      <link>http://notes.jef.io/articles/prise-de-notes-avec-nvalt/</link>
       <pubDate>Thu, 15  Aug 2013 15:00:00 +0400</pubDate>
-      <guid isPermaLink="true">http://jef.io/articles/prise-de-notes-avec-nvalt/</guid>
+      <guid isPermaLink="true">http://notes.jef.io/articles/prise-de-notes-avec-nvalt/</guid>
       <author></author>
       <description>&lt;p&gt;Je continue la présentation des quelques outils forts utiles avec
 &lt;a href=&quot;http://brettterpstra.com/projects/nvalt/&quot;&gt;nvALT&lt;/a&gt;. Ce logiciel est un fork de
@@ -274,9 +274,9 @@ le genre de trucs qui dans l’absolu peut être pas mal !&lt;/p&gt;
     </item>
     <item>
       <title>toodledo validé !</title>
-      <link>http://jef.io/articles/toodledo-valide/</link>
+      <link>http://notes.jef.io/articles/toodledo-valide/</link>
       <pubDate>Fri, 21 Jun 2013 22:00:00 +0400</pubDate>
-      <guid isPermaLink="true">http://jef.io/articles/toodledo-valide/</guid>
+      <guid isPermaLink="true">http://notes.jef.io/articles/toodledo-valide/</guid>
       <author></author>
       <description>&lt;p&gt;Voici le début d’une série de courts articles sur les quelques outils qui
 comptent actuellement pour moi et que j’utilise de façon intense. Je parle ici
@@ -322,9 +322,9 @@ avez besoin.&lt;/p&gt;
     </item>
     <item>
       <title>Comme un bleu</title>
-      <link>http://jef.io/articles/comme-un-bleu/</link>
+      <link>http://notes.jef.io/articles/comme-un-bleu/</link>
       <pubDate>Thu, 11 Apr 2013 22:00:00 +0400</pubDate>
-      <guid isPermaLink="true">http://jef.io/articles/comme-un-bleu/</guid>
+      <guid isPermaLink="true">http://notes.jef.io/articles/comme-un-bleu/</guid>
       <author></author>
       <description>&lt;p&gt;Je me suis fait avoir aujourd’hui avec ce
 &lt;a href=&quot;https://twitter.com/lefakir/status/324106385585479681&quot;&gt;tweet&lt;/a&gt;. Et bien oui
@@ -366,9 +366,9 @@ ce petit hameçon aujourd’hui.&lt;/p&gt;
     </item>
     <item>
       <title>homologue.io</title>
-      <link>http://jef.io/articles/homologue-io/</link>
+      <link>http://notes.jef.io/articles/homologue-io/</link>
       <pubDate>Sun, 17 Mar 2013 22:00:00 +0400</pubDate>
-      <guid isPermaLink="true">http://jef.io/articles/homologue-io/</guid>
+      <guid isPermaLink="true">http://notes.jef.io/articles/homologue-io/</guid>
       <author></author>
       <description>&lt;p&gt;Je n’avais absolument pas fait attention lors de l’achat de ce nom de domaine
 mais je trouve marrantes les caractéristiques du profil de &lt;a href=&quot;http://www.jeff.io/&quot;&gt;mon homologue en
@@ -378,9 +378,9 @@ quelques similitudes…&lt;/p&gt;
     </item>
     <item>
       <title>sublime text 2</title>
-      <link>http://jef.io/articles/sublime-text-2/</link>
+      <link>http://notes.jef.io/articles/sublime-text-2/</link>
       <pubDate>Sun, 03 Feb 2013 22:00:00 +0400</pubDate>
-      <guid isPermaLink="true">http://jef.io/articles/sublime-text-2/</guid>
+      <guid isPermaLink="true">http://notes.jef.io/articles/sublime-text-2/</guid>
       <author></author>
       <description>&lt;p&gt;Je produis du code quotidiennement et j’apporte une grande attention à mon
 outil de travail principal : l’éditeur de texte.&lt;/p&gt;
@@ -419,9 +419,9 @@ saigner&lt;/a&gt;.&lt;/p&gt;
     </item>
     <item>
       <title>vim</title>
-      <link>http://jef.io/articles/vim/</link>
+      <link>http://notes.jef.io/articles/vim/</link>
       <pubDate>Sat, 15 Dec 2012 15:00:00 +0400</pubDate>
-      <guid isPermaLink="true">http://jef.io/articles/vim/</guid>
+      <guid isPermaLink="true">http://notes.jef.io/articles/vim/</guid>
       <author></author>
       <description>&lt;p&gt;Vim est un éditeur de texte puissant. Il est impératif de bien le paramétrer
 pour tirer profit de son potentiel. Et c’est là qu’est souvent le problème
